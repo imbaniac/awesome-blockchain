@@ -10,7 +10,7 @@
   * [USA](#usa)
   * [Canada](#canada)
   * [Australia](#australia)
-  * [Eu](#eu)
+  * [EU](#eu)
   * [India](#india)
 - [Jobs](#jobs)
 - [Social](#social)
