@@ -15,36 +15,31 @@
 - [Localbitcoins](https://localbitcoins.com/) - Peer-to-peer bitcoin exchange
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
-- [Kraken](https://www.kraken.com)
 - [BTC-e](https://btc-e.com)
 - [Bitpanda](https://www.bitpanda.com/)
+- [Xcoins](https://xcoins.io/)
+- [Nonstopcoin](http://nonstopcoin.com/)
+- [Bitit.gift](https://bitit.gift/) - instant buy with cards and vouchers
+- [Kraken 🇪🇺 🇨🇦 🇺🇸](https://www.kraken.com)
+- [247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods
+- [Coinmate](https://coinmate.io)
+- [Coinmama](https://www.coinmama.com/) - cash or cards in almost all countries (overpriced 💸)
+#### USA
 - [Libertyx 🇺🇸](https://libertyx.com) - buy from local stores in US
 - [Glidera 🇺🇸](https://www.glidera.io) - US, integrated into Mycelium and Airbitz wallets
-- [247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods
-- [Wallofcoins](https://wallofcoins.com)
-- [Coinmate](https://coinmate.io)
-- [Coinmama](https://www.coinmama.com/) - cash or cards in almost all countries
-- [Mybtc](https://mybtc.ca/) - instant buy with cards and vouchers
-- [Bitit.gift](https://bitit.gift/) - instant buy with cards and vouchers
-- [Quickbt](https://quickbt.com/) - buy instant with debit, cash, flexepinin CA
-- [Bit2me](https://bit2me.com/) - buy BTC or exchange BTC for cash to any ATM in EU
-- [Anycoindirect](https://anycoindirect.eu/)
-- [Xcoins](https://xcoins.io/) - BTC with CC
-- [Bitonic](https://bitonic.nl)
-- [Bitbay](https://bitbay.net/)
-- [Belgacoin](https://www.belgacoin.com) - no registration
-- [Chip-chap](https://chip-chap.com/) - nice mobile app to buy/sell BTC with cards
-- [Multisigna](https://www.multisigna.com/)
-- [Bitboat](https://www.bitboat.net/) - buy BTC with no account required, with cash to ATMs in EU
-- [Coinimal](https://www.coinimal.com/)
-- [Buyucoin 🇮🇳](http://www.buyucoin.com/) - buy with cards in India
-- [Zebpay 🇮🇳](https://www.zebpay.com/) - nice app to buy in India
-- [Nonstopcoin](http://nonstopcoin.com/)
-- [Yabit](https://yabit.com.ve/)
-- [Bitmymoney](https://www.bitmymoney.com/)
-- [Bitrocket](http://www.bitrocket.co/) - buy in AUS with cash, ATM
-- [Independentreserve](https://www.independentreserve.com/) - trade BTC in AUS
-- [Bittrex](https://bittrex.com/)
+#### Canada
+- [Mybtc 🇨🇦](https://mybtc.ca/) - instant buy with cards and vouchers
+- [Quickbt 🇨🇦](https://quickbt.com/) - buy instant with debit, cash, flexepinin CA
+#### Australia
+- [Bitrocket 🇦🇺](http://www.bitrocket.co/)
+- [Independentreserve 🇦🇺](https://www.independentreserve.com/)
+#### EU
+- [Bit2me 🇪🇺](https://bit2me.com/) - buy BTC or exchange BTC for cash to any ATM in EU
+- [Anycoindirect 🇪🇺](https://anycoindirect.eu/)
+- [Bitonic 🇪🇺](https://bitonic.nl)
+- [Bitbay 🇪🇺](https://bitbay.net/)
+- [Belgacoin 🇪🇺](https://www.belgacoin.com) - no registration
+- [Bitboat 🇪🇺](https://www.bitboat.net/) - buy BTC with no account required, with cash to ATMs in EU
 - [Cubits 🇪🇺](https://cubits.com/)
 - [Coinify 🇪🇺](https://www.coinify.com/)
 - [BTC Direct 🇪🇺](https://btcdirect.eu)
@@ -52,7 +47,11 @@
 - [Coinfinity 🇪🇺](https://coinfinity.co/)
 - [Coinmotion 🇪🇺](https://coinmotion.com/)
 - [Cryptopay 🇪🇺](https://cryptopay.me/)
+- [Yabit 🇪🇸](https://yabit.com.ve/)
 - [Bity 🇨🇭 ](https://bity.com/)
+#### India
+- [Buyucoin 🇮🇳](http://www.buyucoin.com/) - buy with cards in India
+- [Zebpay 🇮🇳](https://www.zebpay.com/) - nice app to buy in India
 
 
 ### Jobs
