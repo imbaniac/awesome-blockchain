@@ -2,7 +2,6 @@
   <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
 </p>
 
-> Curated list of blockchain projects 
 
 ### Contents
 
@@ -12,6 +11,8 @@
 - [Gambling](#gambling)
 
 ### Exchange
+- [Bitsquare ✅](https://bitsquare.io) - P2P decentralized exchange
+- [Localbitcoins ✅](https://localbitcoins.com/) - Buy and sell bitcoins near you directly
 
 ### Jobs
 
