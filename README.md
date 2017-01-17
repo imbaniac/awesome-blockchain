@@ -8,7 +8,7 @@
 
 - [Exchange](#exchange)
 - [Jobs](#jobs)
-- [Socila](#social)
+- [Social](#social)
 - [Gambling](#gambling)
 
 ### Exchange
