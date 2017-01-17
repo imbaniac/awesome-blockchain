@@ -25,7 +25,7 @@
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [BTC-e](https://btc-e.com)
-- [Bitpanda](https://www.bitpanda.com/)
+- [Bitpanda](https://www.bitpanda.com/?ref=7384335410044472714) 🍭
 - [xCoins](https://xcoins.io/?r=a6e773) 🍭
 - [Nonstopcoin](http://nonstopcoin.com/)
 - [Bitit.gift](https://bitit.gift/) - instant buy with cards and vouchers
