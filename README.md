@@ -24,7 +24,7 @@
 - [247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods
 - [Coinmate](https://coinmate.io)
 - [Coinmama](https://www.coinmama.com/) - cash or cards in almost all countries (overpriced 💸)
-### USA
+- ### USA
 - [Libertyx 🇺🇸](https://libertyx.com) - buy from local stores in US
 - [Glidera 🇺🇸](https://www.glidera.io) - US, integrated into Mycelium and Airbitz wallets
 ### Canada
