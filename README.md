@@ -26,7 +26,7 @@
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [BTC-e](https://btc-e.com)
 - [Bitpanda](https://www.bitpanda.com/)
-- [xCoins](https://xcoins.io/)
+- [xCoins](https://xcoins.io/?r=a6e773) 🍭
 - [Nonstopcoin](http://nonstopcoin.com/)
 - [Bitit.gift](https://bitit.gift/) - instant buy with cards and vouchers
 - [Kraken 🇪🇺 🇨🇦 🇺🇸](https://www.kraken.com)
