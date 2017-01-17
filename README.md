@@ -72,6 +72,7 @@
 - [Buyucoin 🇮🇳](http://www.buyucoin.com/) - buy with cards in India
 - [Zebpay 🇮🇳](https://www.zebpay.com/) - nice app to buy in India
 
+### Wallets
 
 ### Jobs
 
