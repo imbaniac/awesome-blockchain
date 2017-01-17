@@ -3,14 +3,14 @@
 </p>
 
 
-### Contents
+## Contents
 
 - [Exchanges](#exchanges)
 - [Jobs](#jobs)
 - [Social](#social)
 - [Gambling](#gambling)
 
-### Exchanges
+## Exchanges
 - [Bitsquare](https://bitsquare.io) - P2P decentralized exchange
 - [Localbitcoins](https://localbitcoins.com/) - Peer-to-peer bitcoin exchange
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
@@ -24,16 +24,16 @@
 - [247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods
 - [Coinmate](https://coinmate.io)
 - [Coinmama](https://www.coinmama.com/) - cash or cards in almost all countries (overpriced 💸)
-#### USA
+### USA
 - [Libertyx 🇺🇸](https://libertyx.com) - buy from local stores in US
 - [Glidera 🇺🇸](https://www.glidera.io) - US, integrated into Mycelium and Airbitz wallets
-#### Canada
+### Canada
 - [Mybtc 🇨🇦](https://mybtc.ca/) - instant buy with cards and vouchers
 - [Quickbt 🇨🇦](https://quickbt.com/) - buy instant with debit, cash, flexepinin CA
-#### Australia
+### Australia
 - [Bitrocket 🇦🇺](http://www.bitrocket.co/)
 - [Independentreserve 🇦🇺](https://www.independentreserve.com/)
-#### EU
+### EU
 - [Bit2me 🇪🇺](https://bit2me.com/) - buy BTC or exchange BTC for cash to any ATM in EU
 - [Anycoindirect 🇪🇺](https://anycoindirect.eu/)
 - [Bitonic 🇪🇺](https://bitonic.nl)
@@ -49,16 +49,16 @@
 - [Cryptopay 🇪🇺](https://cryptopay.me/)
 - [Yabit 🇪🇸](https://yabit.com.ve/)
 - [Bity 🇨🇭 ](https://bity.com/)
-#### India
+### India
 - [Buyucoin 🇮🇳](http://www.buyucoin.com/) - buy with cards in India
 - [Zebpay 🇮🇳](https://www.zebpay.com/) - nice app to buy in India
 
 
-### Jobs
+## Jobs
 
-### Social
+## Social
 
-### Gambling
+## Gambling
 
 
 
