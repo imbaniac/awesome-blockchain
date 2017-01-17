@@ -6,11 +6,20 @@
 ### Contents
 
 - [Exchanges](#exchanges)
+  * [Global](#global)
+  * [USA](#usa)
+  * [Canada](#canada)
+  * [Australia](#australia)
+  * [Eu](#eu)
+  * [India](#india)
 - [Jobs](#jobs)
 - [Social](#social)
 - [Gambling](#gambling)
 
 ### Exchanges
+
+#### Global
+
 - [Bitsquare](https://bitsquare.io) - P2P decentralized exchange
 - [Localbitcoins](https://localbitcoins.com/) - Peer-to-peer bitcoin exchange
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
