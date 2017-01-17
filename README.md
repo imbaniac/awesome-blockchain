@@ -79,9 +79,13 @@
 
 ### Gambling
 
+---
+Some links are affiliate, so I could keep the list up to date. I marked them as 🍭
+You can also directly support the list:
 
+**Bitcoin:** *1MjC5Htqzd2uJx6eFSuBCh1HT122Gesfpd*
 
-
+**Ethereum:** *0x78a2C634b844b23e22795EAb1Bd344629f4983c2*
 
 
 
