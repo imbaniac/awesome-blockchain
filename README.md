@@ -6,10 +6,10 @@
 
 ### Contents
 
-- [Exchange](#Exchange)
-- [Jobs](#Jobs)
-- [Socila](#Social)
-- [Gambling](#Gambling)
+- [Exchange](#exchange)
+- [Jobs](#jobs)
+- [Socila](#social)
+- [Gambling](#gambling)
 
 ### Exchange
 
