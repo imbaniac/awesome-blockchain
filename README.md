@@ -5,7 +5,7 @@
 
 ### Contents
 
-- [Exchange](#exchange)
+- [Exchanges](#exchanges)
 - [Jobs](#jobs)
 - [Social](#social)
 - [Gambling](#gambling)
@@ -14,11 +14,12 @@
 - [Bitsquare](https://bitsquare.io) - P2P decentralized exchange
 - [Localbitcoins](https://localbitcoins.com/) - Peer-to-peer bitcoin exchange
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
-- [Bitcoin.de](https://www.bitcoin.de) - P2P exchange (mostly in Euros)
+- [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [Kraken](https://www.kraken.com)
 - [BTC-e](https://btc-e.com)
-- [Libertyx](https://libertyx.com) - buy from local stores in US
-- [Glidera](https://www.glidera.io) - US, integrated into Mycelium and Airbitz wallets
+- [Bitpanda](https://www.bitpanda.com/)
+- [Libertyx 🇺🇸](https://libertyx.com) - buy from local stores in US
+- [Glidera 🇺🇸](https://www.glidera.io) - US, integrated into Mycelium and Airbitz wallets
 - [247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods
 - [Wallofcoins](https://wallofcoins.com)
 - [Coinmate](https://coinmate.io)
@@ -43,17 +44,15 @@
 - [Bitmymoney](https://www.bitmymoney.com/)
 - [Bitrocket](http://www.bitrocket.co/) - buy in AUS with cash, ATM
 - [Independentreserve](https://www.independentreserve.com/) - trade BTC in AUS
-- [Bittrex](ttps://bittrex.com/)
-- [Cubits](https://cubits.com/)
-- [Safello](https://safello.com/)
-- [Coinify](https://www.coinify.com/)
-- [BTCdirect](https://btcdirect.eu)
-- [Happycoins](https://www.happycoins.com)
-- [Bitpanda](https://www.bitpanda.com/)
-- [Coinfinity](https://coinfinity.co/)
-- [Coinmotion](https://coinmotion.com/)
-- [Cryptopay](https://cryptopay.me/)
-- [Bity](https://bity.com/)
+- [Bittrex](https://bittrex.com/)
+- [Cubits 🇪🇺](https://cubits.com/)
+- [Coinify 🇪🇺](https://www.coinify.com/)
+- [BTC Direct 🇪🇺](https://btcdirect.eu)
+- [Happycoins 🇪🇺](https://www.happycoins.com)
+- [Coinfinity 🇪🇺](https://coinfinity.co/)
+- [Coinmotion 🇪🇺](https://coinmotion.com/)
+- [Cryptopay 🇪🇺](https://cryptopay.me/)
+- [Bity 🇨🇭 ](https://bity.com/)
 
 
 ### Jobs
