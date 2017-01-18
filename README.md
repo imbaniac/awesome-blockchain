@@ -32,6 +32,7 @@
 - [Bitpanda](https://www.bitpanda.com/?ref=7384335410044472714) 🍭
 - [xCoins](https://xcoins.io/?r=a6e773) 🍭
 - [Nonstopcoin](http://nonstopcoin.com/)
+- [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on Blockchain
 - [Bitfinex](https://www.bitfinex.com) - elegant web trading platform
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
@@ -108,8 +109,10 @@
 ### Gambling
 
 ---
+
 ## TODO
-1) Interative map with all exchanges and supported countries
+- Interative map with all exchanges and supported countries
+
 ---
 
 Some links are affiliate, so I could keep the list up to date. I marked them as 🍭
