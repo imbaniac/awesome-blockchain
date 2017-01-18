@@ -31,7 +31,7 @@
 - [Nonstopcoin](http://nonstopcoin.com/)
 - [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
 - [Kraken 🇪🇺 🇨🇦 🇺🇸](https://www.kraken.com)
-*- [247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods*
+- *[247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods*
 - [Coinmate](https://coinmate.io)
 - [Coinmama](https://www.Coinmama.com/?ref=imbaniac.) - cash or cards in almost all countries (overpriced but fast 💸) 🍭
 
