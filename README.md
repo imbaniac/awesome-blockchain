@@ -25,14 +25,15 @@
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [BTC-e](https://btc-e.com)
+- [Ecoin](https://www.e-coin.io/?ref=bb5f6a0f682f485ca396da4a002c6777) - free virtual card, nice mobile app 🍭
 - [Bitpanda](https://www.bitpanda.com/?ref=7384335410044472714) 🍭
 - [xCoins](https://xcoins.io/?r=a6e773) 🍭
 - [Nonstopcoin](http://nonstopcoin.com/)
-- [Bitit.gift](https://bitit.gift/) - instant buy with cards and vouchers
+- [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
 - [Kraken 🇪🇺 🇨🇦 🇺🇸](https://www.kraken.com)
-- [247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods
+*- [247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods*
 - [Coinmate](https://coinmate.io)
-- [Coinmama](https://www.coinmama.com/) - cash or cards in almost all countries (overpriced 💸)
+- [Coinmama](https://www.Coinmama.com/?ref=imbaniac.) - cash or cards in almost all countries (overpriced but fast 💸) 🍭
 
 #### USA
 
@@ -71,6 +72,10 @@
 
 - [Buyucoin 🇮🇳](http://www.buyucoin.com/) - buy with cards in India
 - [Zebpay 🇮🇳](https://www.zebpay.com/) - nice app to buy in India
+
+#### CIS
+
+- [Kuna](https://kuna.io/) 🇺🇦
 
 ### Wallets
 
