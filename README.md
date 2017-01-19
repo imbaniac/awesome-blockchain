@@ -8,10 +8,12 @@
 - [Exchanges](#exchanges)
   * [Global](#global)
   * [USA](#usa)
-  * [Canada](#canada)
-  * [Australia](#australia)
+  * [Canada / Mexico](#canada--mexica)
+  * [Australia / New Zealand](#australia--new-zealand)
   * [EU](#eu)
   * [India](#india)
+  * [China](#china)
+  * [Japan / Korea / Other Asia](#japan--korea--other-asia)
   * [CIS](#cis)
 - [Jobs](#jobs)
 - [Social](#social)
@@ -68,7 +70,7 @@ You can also support the list directly:
 - [ItBit 🇺🇸](https://www.itbit.com)
 - [BitQuick 🇺🇸](https://www.bitquick.co)
 
-#### Canada / Mexica
+#### Canada / Mexico
 
 - [Mybtc 🇨🇦](https://mybtc.ca/) - instant buy with cards and vouchers
 - [Quickbt 🇨🇦](https://quickbt.com/) - buy instant with debit, cash, flexepinin CA
@@ -118,7 +120,7 @@ You can also support the list directly:
 - [BTC Trade 🇨🇳](https://www.btctrade.com/)
 - [Yunbi 🇨🇳](https://yunbi.com)
 
-#### Japan / Korea / Asia
+#### Japan / Korea / Other Asia
 
 - [Coincheck 🇯🇵](https://coincheck.com/?c=_aI3PKBrW6U) 🍭
 - [BitFlyer 🇯🇵](https://bitflyer.jp/)
