@@ -38,9 +38,12 @@
 - [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
 - *[247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods*
 - [Bitmex](https://www.bitmex.com/register/0rE6wB) - BTC trading platform 🍭
+- [Coinsbank](https://coinsbank.com) - works with credit cards
 - [Shapeshift](https://shapeshift.io) - Bitcoin to Altcoins
 - [Kraken 🇪🇺 🇨🇦 🇺🇸](https://www.kraken.com)
 - [Gemini 🇨🇦 🇺🇸 🇬🇧 🇭🇰 🇸🇬 🇰🇷 🇯🇵](https://gemini.com) - Bitcoin exchange from [Winklevoss twins](https://en.wikipedia.org/wiki/Winklevoss_twins)
+- [Gdax](https://www.gdax.com/) - trading platform on top of Coinbase
+- [Hit BTC](https://hitbtc.com?ref_id=588072309d841) 🍭
 
 #### USA
 
@@ -84,10 +87,13 @@
 - [Buyucoin 🇮🇳](http://www.buyucoin.com/) - buy with cards in India
 - [Zebpay 🇮🇳](https://www.zebpay.com/) - nice app to buy in India
 
-#### Japan
+#### Japan / Korea
 
 - [Coincheck 🇯🇵](https://coincheck.com/?c=_aI3PKBrW6U) 🍭
 - [BitFlyer 🇯🇵](https://bitflyer.jp/)
+- [BTC Box 🇯🇵](https://www.btcbox.co.jp/)
+- [Zaif 🇯🇵](https://zaif.jp/)
+- [Korbit 🇰🇷](https://www.korbit.co.kr/)
 
 #### China
 
@@ -95,6 +101,9 @@
 - [BTCC 🇨🇳](exchange.btcc.com)
 - [Huobi 🇨🇳](https://www.huobi.com/)
 - [BTC100 🇨🇳](https://www.btc100.com/)
+- [Dabtc 🇨🇳](https://www.dabtc.com/)
+- [BTC Trade 🇨🇳](https://www.btctrade.com/)
+- [Yunbi 🇨🇳](https://yunbi.com)
 
 #### CIS
 
