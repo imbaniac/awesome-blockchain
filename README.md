@@ -17,6 +17,17 @@
 - [Social](#social)
 - [Gambling](#gambling)
 
+---
+To propose a project - open issue/PR or contact me with [Telegram](https://t.me/tmaniac ).
+Some links are affiliate, so I could keep the list up to date. I marked them as 🍭
+You can also support the list directly:
+
+**Bitcoin:** *1MjC5Htqzd2uJx6eFSuBCh1HT122Gesfpd*
+
+**Ethereum:** *0x78a2C634b844b23e22795EAb1Bd344629f4983c2*
+
+---
+
 ### Exchanges
 
 #### Global
@@ -31,12 +42,13 @@
 - [Coinmama](https://www.Coinmama.com/?ref=imbaniac.) - cash or cards in almost all countries 🍭
 - [Bitpanda](https://www.bitpanda.com/?ref=7384335410044472714) 🍭
 - [xCoins](https://xcoins.io/?r=a6e773) 🍭
+- [Paxful](https://paxful.com) - P2P exchange with variety of payment options, including credit/debit/gift cards
 - [Nonstopcoin](http://nonstopcoin.com/)
+- [Blockchain.info](https://blockchain.info/) - popular cloud wallet with ability to purchase Bitcoins
 - [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on Blockchain
 - [Bitfinex](https://www.bitfinex.com) - elegant web trading platform
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
-- *[247exchange.com](https://www.247exchange.com) - pay easy with debit/credit cards and many other methods*
 - [Bitmex](https://www.bitmex.com/register/0rE6wB) - BTC trading platform 🍭
 - [Coinsbank](https://coinsbank.com) - works with credit cards
 - [Shapeshift](https://shapeshift.io) - Bitcoin to Altcoins
@@ -44,6 +56,10 @@
 - [Gemini 🇨🇦 🇺🇸 🇬🇧 🇭🇰 🇸🇬 🇰🇷 🇯🇵](https://gemini.com) - Bitcoin exchange from [Winklevoss twins](https://en.wikipedia.org/wiki/Winklevoss_twins)
 - [Gdax](https://www.gdax.com/) - trading platform on top of Coinbase
 - [Hit BTC](https://hitbtc.com?ref_id=588072309d841) 🍭
+- [Changelly](https://changelly.com/exchange/BTC/ETH/1?ref_id=dc30cb25d349) - Exchange cryptocurrencies between different wallets 🍭
+- [Bittrex](https://bittrex.com)
+- [The Rock Trading](https://www.therocktrading.com)
+- [Paymium](https://paymium.com/)
 
 #### USA
 
@@ -52,22 +68,24 @@
 - [ItBit 🇺🇸](https://www.itbit.com)
 - [BitQuick 🇺🇸](https://www.bitquick.co)
 
-#### Canada
+#### Canada / Mexica
 
 - [Mybtc 🇨🇦](https://mybtc.ca/) - instant buy with cards and vouchers
 - [Quickbt 🇨🇦](https://quickbt.com/) - buy instant with debit, cash, flexepinin CA
+- [Bitso 🇲🇽](https://bitso.com/)
 
-#### Australia
+#### Australia / New Zealand
 
 - [Bitrocket 🇦🇺](http://www.bitrocket.co/)
 - [Independentreserve 🇦🇺](https://www.independentreserve.com/)
+- [Btc Markets](https://btcmarkets.net)
 
 #### EU
 
 - [Bitstamp 🇪🇺](https://www.bitstamp.net/)
 - [Coinmate 🇪🇺](https://coinmate.io)
 - [Bit2me 🇪🇺](https://bit2me.com/) - buy BTC or exchange BTC for cash to any ATM in EU
-- [Anycoindirect 🇪🇺](https://anycoindirect.eu/)
+- [Anycoindirect](https://anycoindirect.eu/en/buy/bitcoins?discref=5ab5b673-f8a2-41e8-b6c4-fca63bfabb9a) 🍭
 - [Bitonic 🇪🇺](https://bitonic.nl)
 - [Bitbay 🇪🇺](https://bitbay.net/)
 - [Belgacoin 🇪🇺](https://www.belgacoin.com) - no registration
@@ -77,6 +95,7 @@
 - [BTC Direct 🇪🇺](https://btcdirect.eu)
 - [Happycoins 🇪🇺](https://www.happycoins.com)
 - [Coinfinity 🇪🇺](https://coinfinity.co/)
+- [Paymium 🇪🇺](https://paymium.com)
 - [Coinmotion 🇪🇺](https://coinmotion.com/)
 - [Cryptopay 🇪🇺](https://cryptopay.me/)
 - [Yabit 🇪🇸](https://yabit.com.ve/)
@@ -85,15 +104,9 @@
 #### India
 
 - [Buyucoin 🇮🇳](http://www.buyucoin.com/) - buy with cards in India
-- [Zebpay 🇮🇳](https://www.zebpay.com/) - nice app to buy in India
-
-#### Japan / Korea
-
-- [Coincheck 🇯🇵](https://coincheck.com/?c=_aI3PKBrW6U) 🍭
-- [BitFlyer 🇯🇵](https://bitflyer.jp/)
-- [BTC Box 🇯🇵](https://www.btcbox.co.jp/)
-- [Zaif 🇯🇵](https://zaif.jp/)
-- [Korbit 🇰🇷](https://www.korbit.co.kr/)
+- [BtcxIndia 🇮🇳](https://btcxindia.com/)
+- [Zebpay 🇮🇳](https://www.zebpay.com/)
+- [Unocoin 🇮🇳](https://www.unocoin.com/)
 
 #### China
 
@@ -104,6 +117,15 @@
 - [Dabtc 🇨🇳](https://www.dabtc.com/)
 - [BTC Trade 🇨🇳](https://www.btctrade.com/)
 - [Yunbi 🇨🇳](https://yunbi.com)
+
+#### Japan / Korea / Asia
+
+- [Coincheck 🇯🇵](https://coincheck.com/?c=_aI3PKBrW6U) 🍭
+- [BitFlyer 🇯🇵](https://bitflyer.jp/)
+- [BTC Box 🇯🇵](https://www.btcbox.co.jp/)
+- [Zaif 🇯🇵](https://zaif.jp/)
+- [Korbit 🇰🇷](https://www.korbit.co.kr/)
+- [BX Thailand](https://bx.in.th/)
 
 #### CIS
 
@@ -119,17 +141,9 @@
 
 ---
 
-## TODO
-- Interative map with all exchanges and supported countries
+## Future plans
+- Interative map with exchanges and filter by countries
 
----
-
-Some links are affiliate, so I could keep the list up to date. I marked them as 🍭
-You can also support the list directly:
-
-**Bitcoin:** *1MjC5Htqzd2uJx6eFSuBCh1HT122Gesfpd*
-
-**Ethereum:** *0x78a2C634b844b23e22795EAb1Bd344629f4983c2*
 
 
 
