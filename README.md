@@ -8,7 +8,7 @@
 - [Exchanges](#exchanges)
   * [Global](#global)
   * [USA](#usa)
-  * [Canada / Mexico](#canada--mexica)
+  * [Canada / Mexico](#canada--mexico)
   * [Australia / New Zealand](#australia--new-zealand)
   * [EU](#eu)
   * [India](#india)
@@ -51,6 +51,7 @@ You can also support the list directly:
 - [Bitfinex](https://www.bitfinex.com) - elegant web trading platform
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
+- [Alfacashier](https://www.alfacashier.com/r/2f790f4c) 🍭
 - [Bitmex](https://www.bitmex.com/register/0rE6wB) - BTC trading platform 🍭
 - [Coinsbank](https://coinsbank.com) - works with credit cards
 - [Shapeshift](https://shapeshift.io) - Bitcoin to Altcoins
@@ -87,7 +88,7 @@ You can also support the list directly:
 - [Bitstamp 🇪🇺](https://www.bitstamp.net/)
 - [Coinmate 🇪🇺](https://coinmate.io)
 - [Bit2me 🇪🇺](https://bit2me.com/) - buy BTC or exchange BTC for cash to any ATM in EU
-- [Anycoindirect](https://anycoindirect.eu/en/buy/bitcoins?discref=5ab5b673-f8a2-41e8-b6c4-fca63bfabb9a) 🍭
+- [Anycoindirect 🇪🇺](https://anycoindirect.eu/en/buy/bitcoins?discref=5ab5b673-f8a2-41e8-b6c4-fca63bfabb9a) 🍭
 - [Bitonic 🇪🇺](https://bitonic.nl)
 - [Bitbay 🇪🇺](https://bitbay.net/)
 - [Belgacoin 🇪🇺](https://www.belgacoin.com) - no registration
@@ -132,6 +133,10 @@ You can also support the list directly:
 #### CIS
 
 - [Kuna 🇺🇦](https://kuna.io/)
+
+#### Africa
+
+- [Nairaex](https://www.nairaex.com/) - Nigerian exchange
 
 ### Wallets
 
