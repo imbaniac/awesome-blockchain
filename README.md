@@ -126,6 +126,7 @@ You can also support the list directly:
 - [Coincheck 🇯🇵](https://coincheck.com/?c=_aI3PKBrW6U) 🍭
 - [BitFlyer 🇯🇵](https://bitflyer.jp/)
 - [BTC Box 🇯🇵](https://www.btcbox.co.jp/)
+- [Quoine 🇯🇵](https://www.quoine.com/) - trading program
 - [Zaif 🇯🇵](https://zaif.jp/)
 - [Korbit 🇰🇷](https://www.korbit.co.kr/)
 - [BX Thailand](https://bx.in.th/)
