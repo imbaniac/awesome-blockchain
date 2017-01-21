@@ -15,7 +15,9 @@
   * [China](#china)
   * [Japan / Korea / Other Asia](#japan--korea--other-asia)
   * [CIS](#cis)
+  * [Middle East / Africa](#middle-east--africa)
 - [Jobs](#jobs)
+- [Shopping](#shopping)
 - [Social](#social)
 - [Gambling](#gambling)
 
@@ -64,6 +66,8 @@ You can also support the list directly:
 - [The Rock Trading](https://www.therocktrading.com)
 - [Paymium](https://paymium.com/)
 - [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
+- [Uphold 🇪🇺 🇺🇸](https://uphold.com)
+- [Bitbays](https://bitbays.com)
 
 #### USA
 
@@ -103,8 +107,11 @@ You can also support the list directly:
 - [Coinmotion 🇪🇺](https://coinmotion.com/)
 - [Cryptopay 🇪🇺](https://cryptopay.me/)
 - [Luno 🇪🇺](https://www.luno.com/)
+- [Spectrocoin 🇪🇺](https://spectrocoin.com/)
+- [Mrcoin](https://www.mrcoin.eu/en)
 - [Yabit 🇪🇸](https://yabit.com.ve/)
 - [Bity 🇨🇭 ](https://bity.com/)
+- [Bittiraha 🇫🇮](https://bittiraha.fi/)
 
 #### India
 
@@ -119,6 +126,7 @@ You can also support the list directly:
 - [BTCC 🇨🇳](exchange.btcc.com)
 - [Huobi 🇨🇳](https://www.huobi.com/)
 - [BTC100 🇨🇳](https://www.btc100.com/)
+- [CHBTC 🇨🇳](https://www.chbtc.com/)
 - [Dabtc 🇨🇳](https://www.dabtc.com/)
 - [BTC Trade 🇨🇳](https://www.btctrade.com/)
 - [Yunbi 🇨🇳](https://yunbi.com)
@@ -138,17 +146,18 @@ You can also support the list directly:
 
 - [Kuna 🇺🇦](https://kuna.io/)
 
-#### Middle East
+#### Middle East / Africa
 
 - [Bit2c 🇮🇱](https://www.bit2c.co.il/)
-
-#### Africa
-
 - [Nairaex](https://www.nairaex.com/) - Nigerian exchange
 
 ### Wallets
 
 ### Jobs
+
+### Shopping
+
+- [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭 
 
 ### Social
 
