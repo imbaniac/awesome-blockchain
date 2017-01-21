@@ -169,6 +169,8 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 ### Shopping
 
 - [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭 
+- [Tigerdirect](http://www.tigerdirect.com/) - US online retailer dealing in electronics, caters to business and corporate customers, accepts bitcoin
+- [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works smoothly
 
 ### Social
 
