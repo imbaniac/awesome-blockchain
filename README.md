@@ -57,12 +57,13 @@ You can also support the list directly:
 - [Shapeshift](https://shapeshift.io) - Bitcoin to Altcoins
 - [Kraken 🇪🇺 🇨🇦 🇺🇸](https://www.kraken.com)
 - [Gemini 🇨🇦 🇺🇸 🇬🇧 🇭🇰 🇸🇬 🇰🇷 🇯🇵](https://gemini.com) - Bitcoin exchange from [Winklevoss twins](https://en.wikipedia.org/wiki/Winklevoss_twins)
-- [Gdax](https://www.gdax.com/) - trading platform on top of Coinbase
+- [GDAX](https://www.gdax.com/) - trading platform on top of Coinbase
 - [Hit BTC](https://hitbtc.com?ref_id=588072309d841) 🍭
 - [Changelly](https://changelly.com/exchange/BTC/ETH/1?ref_id=dc30cb25d349) - Exchange cryptocurrencies between different wallets 🍭
 - [Bittrex](https://bittrex.com)
 - [The Rock Trading](https://www.therocktrading.com)
 - [Paymium](https://paymium.com/)
+- [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
 
 #### USA
 
@@ -81,7 +82,7 @@ You can also support the list directly:
 
 - [Bitrocket 🇦🇺](http://www.bitrocket.co/)
 - [Independentreserve 🇦🇺](https://www.independentreserve.com/)
-- [Btc Markets](https://btcmarkets.net)
+- [Btc Markets 🇦🇺](https://btcmarkets.net)
 
 #### EU
 
@@ -101,6 +102,7 @@ You can also support the list directly:
 - [Paymium 🇪🇺](https://paymium.com)
 - [Coinmotion 🇪🇺](https://coinmotion.com/)
 - [Cryptopay 🇪🇺](https://cryptopay.me/)
+- [Luno 🇪🇺](https://www.luno.com/)
 - [Yabit 🇪🇸](https://yabit.com.ve/)
 - [Bity 🇨🇭 ](https://bity.com/)
 
@@ -129,11 +131,16 @@ You can also support the list directly:
 - [Quoine 🇯🇵](https://www.quoine.com/) - trading program
 - [Zaif 🇯🇵](https://zaif.jp/)
 - [Korbit 🇰🇷](https://www.korbit.co.kr/)
-- [BX Thailand](https://bx.in.th/)
+- [BX Thailand 🇹🇭](https://bx.in.th/)
+- [Bitcoin.co.id 🇮🇩](https://vip.bitcoin.co.id/ref/imbaniac) 🍭
 
 #### CIS
 
 - [Kuna 🇺🇦](https://kuna.io/)
+
+#### Middle East
+
+- [Bit2c 🇮🇱](https://www.bit2c.co.il/)
 
 #### Africa
 
