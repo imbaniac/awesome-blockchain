@@ -155,6 +155,17 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 
 ### Jobs
 
+- [reddit.com/r/Jobs4Bitcoins](https://www.reddit.com/r/Jobs4Bitcoins/) - bitcoin jobs board
+- [Xbtfreelancer](http://www.xbtfreelancer.com/?ref=31381) - full-featured freelance platform 🍭 
+- [Freelancer.com](https://www.freelancer.com/jobs/bitcoin/) - bitcoin jobs on Freelancer
+- [Indeed.com](https://www.indeed.com/q-Bitcoin-jobs.html) - bitcoin jobs on Indeed
+- [Coinality](https://coinality.com/) - job board, pay in Bitcoin, Litecoin, and Dogecoin
+- [Cryptogrind](https://www.cryptogrind.com/) - freelance platform
+- [Bitgigs](http://bitgigs.com/) - dead-simple job board
+- [Bitcoin-vacancy](http://www.bitcoin-vacancy.com/) - do cryptocurrency related jobs and get paid in cryptocurrencies
+- [Fiverr](https://www.fiverr.com/s2/429351b8a3) - 5-10$ gigs, accepts bitcoin
+- [Angel.co](https://angel.co/bitcoin/jobs) - Bitcoin startup jobs
+
 ### Shopping
 
 - [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭 
