@@ -42,7 +42,7 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [Bitsquare](https://bitsquare.io) - P2P decentralized exchange
 - [Localbitcoins](https://localbitcoins.com/) - Peer-to-peer bitcoin exchange
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
-- [BTC-e](https://btc-e.com)
+- [BTC-e](https://btc-e.com) - clear and solid exchamge
 - [CEX.io](https://cex.io/r/0/up104147987/0/) - credit card or bank transfer, supports Ether 🍭
 - [Coinbase](https://www.coinbase.com/join/5212202cee56a72fbe000061) - supports Ether 🍭
 - [Coinmama](https://www.Coinmama.com/?ref=imbaniac.) - cash or cards in almost all countries, supports Ether 🍭
@@ -51,13 +51,13 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [xCoins](https://xcoins.io/?r=a6e773) - credit cards and PayPal are accepted 🍭
 - [Ecoin](https://www.e-coin.io/?ref=bb5f6a0f682f485ca396da4a002c6777) - free virtual card in mobile app 🍭
 - [Paxful](https://paxful.com) - P2P exchange with variety of payment options, including credit/debit/gift cards
-- [Nonstopcoin](http://nonstopcoin.com/)
+- [Nonstopcoin](http://nonstopcoin.com/) - buy Bitcoins with Perfect Money, OKPAY, Payeer, AdvCash, BTC-e USD
 - [Blockchain.info](https://blockchain.info/) - popular cloud wallet with ability to purchase Bitcoins
 - [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on Blockchain
 - [Bitfinex](https://www.bitfinex.com) - elegant web trading platform from a few cryptocurrencies 
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
-- [Alfacashier](https://www.alfacashier.com/r/2f790f4c) 🍭
+- [Alfacashier](https://www.alfacashier.com/r/2f790f4c) - supports many cryptocurrencies 🍭
 - [Bitmex](https://www.bitmex.com/register/0rE6wB) - BTC trading platform 🍭
 - [Coinsbank](https://coinsbank.com) - works with credit cards
 - [Shapeshift](https://shapeshift.io) - exchange bitcoin to many altcoins
@@ -65,12 +65,10 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [GDAX](https://www.gdax.com/) - trading platform on top of Coinbase
 - [Hit BTC](https://hitbtc.com?ref_id=588072309d841) - supports all main cryptocurrencies 🍭
 - [Changelly](https://changelly.com/exchange/BTC/ETH/1?ref_id=dc30cb25d349) - Exchange cryptocurrencies between different wallets 🍭
-- [Bittrex](https://bittrex.com) - many cryptocurrencies
+- [Bittrex](https://bittrex.com) - supports many cryptocurrencies
 - [The Rock Trading](https://www.therocktrading.com) - supports all main cryptocurrencies
-- [Paymium](https://paymium.com/)
 - [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
 - [Uphold 🇪🇺 🇺🇸](https://uphold.com)
-- [Bitbays](https://bitbays.com)
 
 #### USA
 
@@ -133,6 +131,7 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [Dabtc 🇨🇳](https://www.dabtc.com/)
 - [BTC Trade 🇨🇳](https://www.btctrade.com/)
 - [Yunbi 🇨🇳](https://yunbi.com)
+- [Bitbays 🇨🇳](https://bitbays.com)
 
 #### Japan / Korea / Other Asia
 
