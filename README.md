@@ -2,7 +2,6 @@
   <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
 </p>
 
-
 ### Contents
 
 - [Exchanges](#exchanges)
@@ -19,6 +18,7 @@
 - [Jobs](#jobs)
 - [Shopping](#shopping)
 - [Social](#social)
+- [Future plans](#future-plans)
 
 ---
 To propose a project - open issue/PR or contact me with [Telegram](https://t.me/tmaniac ).
@@ -32,6 +32,10 @@ You can also support the list directly:
 ---
 
 ### Exchanges
+
+[Where to store bitcoins](https://bitcoin.org/en/choose-your-wallet)
+
+For other cryptocurrencies, it's best to use their own wallet (usually from their site, i.e. [Ethereum](https://www.ethereum.org/) or [Dash](https://www.dash.org/wallet/))
 
 #### Global
 
@@ -149,8 +153,6 @@ You can also support the list directly:
 
 - [Bit2c 🇮🇱](https://www.bit2c.co.il/)
 - [Nairaex](https://www.nairaex.com/) - Nigerian exchange
-
-### Wallets
 
 ### Jobs
 
