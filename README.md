@@ -66,9 +66,9 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [Hit BTC](https://hitbtc.com?ref_id=588072309d841) - supports all main cryptocurrencies 🍭
 - [Changelly](https://changelly.com/exchange/BTC/ETH/1?ref_id=dc30cb25d349) - Exchange cryptocurrencies between different wallets 🍭
 - [Bittrex](https://bittrex.com) - supports many cryptocurrencies
+- [Uphold 🇪🇺 🇺🇸](https://uphold.com) - work with credit cards, instant virtual cards to spend money and variety of other options
 - [The Rock Trading](https://www.therocktrading.com) - supports all main cryptocurrencies
 - [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
-- [Uphold 🇪🇺 🇺🇸](https://uphold.com)
 
 #### USA
 
