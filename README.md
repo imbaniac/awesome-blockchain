@@ -53,6 +53,9 @@ You can also support the list directly:
 - [Steem](https://steem.io/) - blockchain-based social media platform with reward system
 - [Swarm](http://swarm-gateways.net/) - serverless hosting incentivised peer-to-peer storage and content distribution. The primary objective is to provide a redundant store of Ethereum's public record, store and distribute DAPP code and data, as well as blockchain data
 - [Chain](https://chain.com/) - enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up
+- [Lazooz](http://lazooz.org/) - decentralized transportation platform, utilising vehicles` unused space to create a variety of smart transportation solutions
+- [Synereo](http://www.synereo.com/) - blockchain content distribution platform with reward system and goal to change the decentralized future of social networking
+- [BnkToTheFuture](https://bnktothefuture.com/) - blockchain crowdfunding platform
 
 
 ### Exchanges
