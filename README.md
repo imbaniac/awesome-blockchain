@@ -36,6 +36,24 @@ You can also support the list directly:
 - [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
 - [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
 - [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
+- [Azure blockchain](https://azure.microsoft.com/en-us/solutions/blockchain/) - Blockchain as a Service from Microsoft. Not free 🔐
+- [IBM blockchain](http://www.ibm.com/blockchain/) - blockchain network in a cloud environment. Not free 🔐
+- [Waves](https://wavesplatform.com/) - decentralized platform that allows any user to issue, transfer, swap and trade custom tokens directly on the blockchain
+- [Monax](https://monax.io/) - ecosystem application platform. Sells legally compliant smart contract-based SDKs to accelerate your time to market with sophisticated ecosystem applications.
+- [Emercoin](http://emercoin.com/) - distributed blockchain services for business and personal use with its own decentralized DNS system
+- [NEM](https://www.nem.io) - P2P system that provides services like payments, messaging, asset making, and naming system
+- [NXT](https://nxt.org) - powerful, open and completely decentralized application platform
+- [Decent](https://decent.ch/) - blockchain content distribution platform
+- [Hyperledger](https://www.hyperledger.org/) - open source collaborative effort created to advance cross-industry blockchain technologies
+- [Multichain](http://www.multichain.com/) - open platform for blockchain applications
+- [Stratis](https://stratisplatform.com/) - end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework. Claims to be enterprise ready.
+- [Credits](http://credits.vision/) - blockchain infrastructure provider for building secure and scalable blockchains
+- [Bitnation](https://bitnation.co/) - become a world citizen
+- [Counterparty](http://counterparty.io/) - create and trade any kind of digital token and run smart contracts on blockchain
+- [Steem](https://steem.io/) - blockchain-based social media platform with reward system
+- [Swarm](http://swarm-gateways.net/) - serverless hosting incentivised peer-to-peer storage and content distribution. The primary objective is to provide a redundant store of Ethereum's public record, store and distribute DAPP code and data, as well as blockchain data
+- [Chain](https://chain.com/) - enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up
+
 
 ### Exchanges
 
@@ -69,6 +87,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Bitmex](https://www.bitmex.com/register/0rE6wB) - BTC trading platform 🍭
 - [Coinsbank](https://coinsbank.com) - works with credit cards
 - [Shapeshift](https://shapeshift.io) - exchange bitcoin to many altcoins
+- [Poloniex](https://poloniex.com) - cryptocurrency exchange
 - [Gemini 🇨🇦 🇺🇸 🇬🇧 🇭🇰 🇸🇬 🇰🇷 🇯🇵](https://gemini.com) - Bitcoin exchange from [Winklevoss twins](https://en.wikipedia.org/wiki/Winklevoss_twins)
 - [GDAX](https://www.gdax.com/) - trading platform on top of Coinbase
 - [Hit BTC](https://hitbtc.com?ref_id=588072309d841) - supports all main cryptocurrencies 🍭
@@ -142,6 +161,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BTC Trade 🇨🇳](https://www.btctrade.com/)
 - [Yunbi 🇨🇳](https://yunbi.com)
 - [Bitbays 🇨🇳](https://bitbays.com)
+- [BTC38 🇨🇳](http://www.btc38.com/)
 
 #### Japan / Korea / Other Asia
 
