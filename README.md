@@ -21,7 +21,7 @@
 - [Future plans](#future-plans)
 
 ---
-To propose a project - open issue/PR or contact me with [Telegram](https://t.me/tmaniac ).
+To propose a project - open issue/PR or contact me with [Telegram](https://t.me/tmaniac)
 Some links are affiliate, so I could keep the list up to date. I marked them as 🍭
 You can also support the list directly:
 
@@ -42,6 +42,8 @@ You can also support the list directly:
 [Where to store bitcoins](https://bitcoin.org/en/choose-your-wallet)
 
 For other cryptocurrencies, it's best to use their own wallet (usually from their site, i.e. [Ethereum](https://www.ethereum.org/) or [Dash](https://www.dash.org/wallet/))
+
+I found no way to buy bitcoin anonymously, by adequate rate, outside of US and EU, and for USD or Euros. If you know the way please contact me [here](https://t.me/tmaniac).
 
 #### Global
 
@@ -75,6 +77,7 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [Uphold 🇪🇺 🇺🇸](https://uphold.com) - work with credit cards, instant virtual cards to spend money and variety of other options
 - [The Rock Trading](https://www.therocktrading.com) - supports all main cryptocurrencies
 - [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
+- [Exmo](https://exmo.com/?ref=373944) - supports a few payment systems (mainly available in CIS) 🍭
 
 #### USA
 
