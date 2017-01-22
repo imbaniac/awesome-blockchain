@@ -4,6 +4,7 @@
 
 ### Contents
 
+- [Projects](#projects)
 - [Exchanges](#exchanges)
   * [Global](#global)
   * [USA](#usa)
@@ -17,7 +18,6 @@
   * [Middle East / Africa](#middle-east--africa)
 - [Jobs](#jobs)
 - [Shopping](#shopping)
-- [Projects](#projects)
 - [Future plans](#future-plans)
 
 ---
@@ -30,6 +30,12 @@ You can also support the list directly:
 **Ethereum:** *0x78a2C634b844b23e22795EAb1Bd344629f4983c2*
 
 ---
+
+### Projects
+
+- [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
+- [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
+- [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
 
 ### Exchanges
 
@@ -171,12 +177,6 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭 
 - [Tigerdirect](http://www.tigerdirect.com/) - US online retailer dealing in electronics, caters to business and corporate customers, accepts bitcoin
 - [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works smoothly
-
-### Projects
-
-- [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
-- [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
-- [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
 
 ---
 
