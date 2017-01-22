@@ -4,7 +4,7 @@
 
 ### Contents
 
-- [Projects](#projects)
+- [Platforms](#platforms)
 - [Exchanges](#exchanges)
   * [Global](#global)
   * [USA](#usa)
@@ -18,6 +18,7 @@
   * [Middle East / Africa](#middle-east--africa)
 - [Jobs](#jobs)
 - [Shopping](#shopping)
+- [Projects](#projects)
 - [Future plans](#future-plans)
 
 ---
@@ -31,11 +32,10 @@ You can also support the list directly:
 
 ---
 
-### Projects
+### Platforms
 
 - [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
 - [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
-- [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
 - [Azure blockchain](https://azure.microsoft.com/en-us/solutions/blockchain/) - Blockchain as a Service from Microsoft. Not free 🔐
 - [IBM blockchain](http://www.ibm.com/blockchain/) - blockchain network in a cloud environment. Not free 🔐
 - [Waves](https://wavesplatform.com/) - decentralized platform that allows any user to issue, transfer, swap and trade custom tokens directly on the blockchain
@@ -48,15 +48,9 @@ You can also support the list directly:
 - [Multichain](http://www.multichain.com/) - open platform for blockchain applications
 - [Stratis](https://stratisplatform.com/) - end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework. Claims to be enterprise ready.
 - [Credits](http://credits.vision/) - blockchain infrastructure provider for building secure and scalable blockchains
-- [Bitnation](https://bitnation.co/) - become a world citizen
 - [Counterparty](http://counterparty.io/) - create and trade any kind of digital token and run smart contracts on blockchain
-- [Steem](https://steem.io/) - blockchain-based social media platform with reward system
 - [Swarm](http://swarm-gateways.net/) - serverless hosting incentivised peer-to-peer storage and content distribution. The primary objective is to provide a redundant store of Ethereum's public record, store and distribute DAPP code and data, as well as blockchain data
 - [Chain](https://chain.com/) - enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up
-- [Lazooz](http://lazooz.org/) - decentralized transportation platform, utilising vehicles` unused space to create a variety of smart transportation solutions
-- [Synereo](http://www.synereo.com/) - blockchain content distribution platform with reward system and goal to change the decentralized future of social networking
-- [BnkToTheFuture](https://bnktothefuture.com/) - blockchain crowdfunding platform
-
 
 ### Exchanges
 
@@ -203,7 +197,16 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 - [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭 
 - [Tigerdirect](http://www.tigerdirect.com/) - US online retailer dealing in electronics, caters to business and corporate customers, accepts bitcoin
-- [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works smoothly
+- [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works fast and smoothly
+
+### Projects
+
+- [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
+- [Bitnation](https://bitnation.co/) - become a world citizen
+- [Steem](https://steem.io/) - blockchain-based social media platform with reward system
+- [Lazooz](http://lazooz.org/) - decentralized transportation platform, utilising vehicles` unused space to create a variety of smart transportation solutions
+- [Synereo](http://www.synereo.com/) - blockchain content distribution platform with reward system and goal to change the decentralized future of social networking
+- [BnkToTheFuture](https://bnktothefuture.com/) - blockchain crowdfunding platform
 
 ---
 
