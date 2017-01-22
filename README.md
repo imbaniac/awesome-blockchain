@@ -43,7 +43,7 @@ You can also support the list directly:
 
 For other cryptocurrencies, it's best to use their own wallet (usually from their site, i.e. [Ethereum](https://www.ethereum.org/) or [Dash](https://www.dash.org/wallet/))
 
-I found no way to buy bitcoin anonymously, by adequate rate, outside of US and EU, and for USD or Euros. If you know the way please contact me [here](https://t.me/tmaniac).
+I found no way to buy bitcoin anonymously, by adequate rate, outside of US and EU, and for USD or Euros. If you know the way, please contact me [here](https://t.me/tmaniac).
 
 #### Global
 
