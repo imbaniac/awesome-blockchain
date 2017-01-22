@@ -17,7 +17,7 @@
   * [Middle East / Africa](#middle-east--africa)
 - [Jobs](#jobs)
 - [Shopping](#shopping)
-- [Social](#social)
+- [Projects](#projects)
 - [Future plans](#future-plans)
 
 ---
@@ -42,13 +42,13 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [Bitsquare](https://bitsquare.io) - P2P decentralized exchange
 - [Localbitcoins](https://localbitcoins.com/) - Peer-to-peer bitcoin exchange
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
-- [BTC-e](https://btc-e.com) - clear and solid exchamge
 - [CEX.io](https://cex.io/r/0/up104147987/0/) - credit card or bank transfer, supports Ether 🍭
 - [Coinbase](https://www.coinbase.com/join/5212202cee56a72fbe000061) - supports Ether 🍭
 - [Coinmama](https://www.Coinmama.com/?ref=imbaniac.) - cash or cards in almost all countries, supports Ether 🍭
 - [Bitpanda](https://www.bitpanda.com/?ref=7384335410044472714) - supports Ether 🍭
 - [Kraken 🇪🇺 🇨🇦 🇺🇸](https://www.kraken.com) - supports all main cryptocurrencies
 - [xCoins](https://xcoins.io/?r=a6e773) - credit cards and PayPal are accepted 🍭
+- [BTC-e](https://btc-e.com) - clear and solid exchange, no documents required
 - [Ecoin](https://www.e-coin.io/?ref=bb5f6a0f682f485ca396da4a002c6777) - free virtual card in mobile app 🍭
 - [Paxful](https://paxful.com) - P2P exchange with variety of payment options, including credit/debit/gift cards
 - [Nonstopcoin](http://nonstopcoin.com/) - buy Bitcoins with Perfect Money, OKPAY, Payeer, AdvCash, BTC-e USD
@@ -172,7 +172,11 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 - [Tigerdirect](http://www.tigerdirect.com/) - US online retailer dealing in electronics, caters to business and corporate customers, accepts bitcoin
 - [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works smoothly
 
-### Social
+### Projects
+
+- [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
+- [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
+- [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
 
 ---
 
