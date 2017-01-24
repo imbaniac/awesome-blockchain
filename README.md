@@ -93,6 +93,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Hit BTC](https://hitbtc.com?ref_id=588072309d841) - supports all main cryptocurrencies 🍭
 - [Changelly](https://changelly.com/exchange/BTC/ETH/1?ref_id=dc30cb25d349) - Exchange cryptocurrencies between different wallets 🍭
 - [Bittrex](https://bittrex.com) - supports many cryptocurrencies
+- [Vaultoro](www.vaultoro.com/?a=101996) - trade bitcoin and altcoins and physical gold 🍭
 - [Uphold 🇪🇺 🇺🇸](https://uphold.com) - work with credit cards, instant virtual cards to spend money and variety of other options
 - [The Rock Trading](https://www.therocktrading.com) - supports all main cryptocurrencies
 - [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
