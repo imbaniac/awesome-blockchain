@@ -16,6 +16,7 @@
   * [Japan / Korea / Other Asia](#japan--korea--other-asia)
   * [CIS](#cis)
   * [Middle East / Africa](#middle-east--africa)
+- [Payments / Lending](#payments--lending)
 - [Jobs](#jobs)
 - [Shopping](#shopping)
 - [Projects](#projects)
@@ -36,6 +37,7 @@ You can also support the list directly:
 
 - [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
 - [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
+- [Ethereum classic](https://ethereumclassic.github.io/) - continuation of the original Ethereum blockchain - the classic version preserving untampered history, hard forked after [DAO hack](http://www.coindesk.com/understanding-dao-hack-journalists/)
 - [Azure blockchain](https://azure.microsoft.com/en-us/solutions/blockchain/) - Blockchain as a Service from Microsoft. Not free 🔐
 - [IBM blockchain](http://www.ibm.com/blockchain/) - blockchain network in a cloud environment. Not free 🔐
 - [Waves](https://wavesplatform.com/) - decentralized platform that allows any user to issue, transfer, swap and trade custom tokens directly on the blockchain
@@ -51,6 +53,7 @@ You can also support the list directly:
 - [Counterparty](http://counterparty.io/) - create and trade any kind of digital token and run smart contracts on blockchain
 - [Swarm](http://swarm-gateways.net/) - serverless hosting incentivised peer-to-peer storage and content distribution. The primary objective is to provide a redundant store of Ethereum's public record, store and distribute DAPP code and data, as well as blockchain data
 - [Chain](https://chain.com/) - enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up
+- [Factom](https://www.factom.com) - provides active solutions for compliance, identity, transparent assets, and securities for Enterprise, Government and Non-Profit systems
 
 ### Exchanges
 
@@ -65,6 +68,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Bitsquare](https://bitsquare.io) - P2P decentralized exchange
 - [Localbitcoins](https://localbitcoins.com/) - Peer-to-peer bitcoin exchange
 - [Coinatmradar](https://coinatmradar.com) - list of ATMs
+- [Lykke](https://lykke.com) - mobile wallet with exchange, works with most credit cards, supports Solarcoin and Chronobank and has a very good exchange rate
 - [CEX.io](https://cex.io/r/0/up104147987/0/) - credit card or bank transfer, supports Ether 🍭
 - [Coinbase](https://www.coinbase.com/join/5212202cee56a72fbe000061) - supports Ether 🍭
 - [Coinmama](https://www.Coinmama.com/?ref=imbaniac.) - cash or cards in almost all countries, supports Ether 🍭
@@ -72,11 +76,9 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Kraken 🇪🇺 🇨🇦 🇺🇸](https://www.kraken.com) - supports all main cryptocurrencies
 - [xCoins](https://xcoins.io/?r=a6e773) - credit cards and PayPal are accepted 🍭
 - [BTC-e](https://btc-e.com) - clear and solid exchange, no documents required
-- [Ecoin](https://www.e-coin.io/?ref=bb5f6a0f682f485ca396da4a002c6777) - free virtual card in mobile app 🍭
 - [Paxful](https://paxful.com) - P2P exchange with variety of payment options, including credit/debit/gift cards
 - [Nonstopcoin](http://nonstopcoin.com/) - buy Bitcoins with Perfect Money, OKPAY, Payeer, AdvCash, BTC-e USD
 - [Blockchain.info](https://blockchain.info/) - popular cloud wallet with ability to purchase Bitcoins
-- [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on Blockchain
 - [Bitfinex](https://www.bitfinex.com) - elegant web trading platform from a few cryptocurrencies 
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
@@ -159,6 +161,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Yunbi 🇨🇳](https://yunbi.com)
 - [Bitbays 🇨🇳](https://bitbays.com)
 - [BTC38 🇨🇳](http://www.btc38.com/)
+- [Bter 🇨🇳](https://bter.com)
 
 #### Japan / Korea / Other Asia
 
@@ -180,23 +183,34 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Bit2c 🇮🇱](https://www.bit2c.co.il/)
 - [Nairaex](https://www.nairaex.com/) - Nigerian exchange
 
+
+### Payments / Lending
+
+- [Ecoin](https://www.e-coin.io/?ref=bb5f6a0f682f485ca396da4a002c6777) - free virtual card in mobile app 🍭
+- [Bitpay](https://bitpay.com/) - accept bitcoin, store and spend bitcoin securely, or turn bitcoin into dollars
+- [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on Blockchain
+- [Bitpesa](https://www.bitpesa.co/) - send and collect business payments, between Africa and the rest of the world
+- [Crediblefriends](https://crediblefriends.com/) - peer-to-peer lending platform built on Bitcoin that enables anyone to quickly extend lines of credit to all of their trusted friends
+- [BTC Jam](https://btcjam.com/) - borrow and lend using Bitcoin
+- [Bitbond](https://www.bitbond.com/?a=3T8K669VWY) - invest and borrow (mainly for small business) 🍭
+
 ### Jobs
 
 - [reddit.com/r/Jobs4Bitcoins](https://www.reddit.com/r/Jobs4Bitcoins/) - bitcoin jobs board
 - [Xbtfreelancer](http://www.xbtfreelancer.com/?ref=31381) - full-featured freelance platform 🍭 
+- [Bitwage](https://www.bitwage.me/prelaunch?referral=Sy4H3kEwg&refSource=copy) - remote job placement and wage management solutions 🍭
 - [Freelancer.com](https://www.freelancer.com/jobs/bitcoin/) - bitcoin jobs on Freelancer
 - [Indeed.com](https://www.indeed.com/q-Bitcoin-jobs.html) - bitcoin jobs on Indeed
 - [Coinality](https://coinality.com/) - job board, pay in Bitcoin, Litecoin, and Dogecoin
 - [Cryptogrind](https://www.cryptogrind.com/) - freelance platform
 - [Bitgigs](http://bitgigs.com/) - dead-simple job board
 - [Bitcoin-vacancy](http://www.bitcoin-vacancy.com/) - do cryptocurrency related jobs and get paid in cryptocurrencies
-- [Fiverr](https://www.fiverr.com/s2/429351b8a3) - 5-10$ gigs, accepts bitcoin
 - [Angel.co](https://angel.co/bitcoin/jobs) - Bitcoin startup jobs
 
-### Shopping
+### Services
 
 - [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭 
-- [Tigerdirect](http://www.tigerdirect.com/) - US online retailer dealing in electronics, caters to business and corporate customers, accepts bitcoin
+- [Nord VPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3243) - secure and fast VPN with good price 🍭
 - [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works fast and smoothly
 
 ### Projects
@@ -204,9 +218,16 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
 - [Bitnation](https://bitnation.co/) - become a world citizen
 - [Steem](https://steem.io/) - blockchain-based social media platform with reward system
+- [Solarcoin](https://solarcoin.org/) - global rewards program for solar electricity generation
 - [Lazooz](http://lazooz.org/) - decentralized transportation platform, utilising vehicles` unused space to create a variety of smart transportation solutions
 - [Synereo](http://www.synereo.com/) - blockchain content distribution platform with reward system and goal to change the decentralized future of social networking
 - [BnkToTheFuture](https://bnktothefuture.com/) - blockchain crowdfunding platform
+- [Storj](https://storj.io/) - blockchain end-to-end encrypted, distributed object storage. Free while in beta
+- [Chronicled](http://www.chronicled.com/) - link any physical product to its digital identity on a blockchain
+- [Tallysticks](http://tallysticks.io/) - automate the invoicing and the invoice financing processes, making it easier, cheaper, faster and more transparent
+- [Airbitz](https://airbitz.co/) - single-signon security platform for blockchain apps
+- [Tokenly](https://tokenly.com/) - digital representation of your good whether it’s a trading card, song, movie, game, loyalty point, membership, and more
+- [Loyyal](http://loyyal.com/) - universal loyalty and rewards platform, built with blockchain and smart contract technology
 
 ---
 
