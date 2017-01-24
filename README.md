@@ -45,6 +45,7 @@ You can also support the list directly:
 - [Emercoin](http://emercoin.com/) - distributed blockchain services for business and personal use with its own decentralized DNS system
 - [NEM](https://www.nem.io) - P2P system that provides services like payments, messaging, asset making, and naming system
 - [NXT](https://nxt.org) - powerful, open and completely decentralized application platform
+- [Ardor](https://www.ardorplatform.org/) - blockchain-as-a-service platform that will allow people to utilize the blockchain technology of Nxt through the use of child chains
 - [Decent](https://decent.ch/) - blockchain content distribution platform
 - [Hyperledger](https://www.hyperledger.org/) - open source collaborative effort created to advance cross-industry blockchain technologies
 - [Multichain](http://www.multichain.com/) - open platform for blockchain applications
