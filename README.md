@@ -24,6 +24,7 @@
 
 ---
 To propose a project - open issue/PR or contact me via [Telegram](https://t.me/tmaniac)
+
 Some links are affiliate, so I could keep the list up to date. I marked them as 🍭
 You can also support the list directly:
 
