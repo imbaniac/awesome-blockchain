@@ -64,6 +64,8 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 
 I found no way to buy bitcoin anonymously, by adequate rate, outside of US and EU, and for USD or Euros. If you know the way, please contact me [here](https://t.me/tmaniac).
 
+[List of all main cryptocurrencies and their market cap](http://coinmarketcap.com/)
+
 #### Global
 
 - [Bitsquare](https://bitsquare.io) - P2P decentralized exchange
@@ -190,6 +192,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 - [Ecoin](https://www.e-coin.io/?ref=bb5f6a0f682f485ca396da4a002c6777) - free virtual card in mobile app 🍭
 - [Bitpay](https://bitpay.com/) - accept bitcoin, store and spend bitcoin securely, or turn bitcoin into dollars
+- [Ripple](https://ripple.com/) - instant, certain, low-cost international payments
 - [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on Blockchain
 - [Bitpesa](https://www.bitpesa.co/) - send and collect business payments, between Africa and the rest of the world
 - [Crediblefriends](https://crediblefriends.com/) - peer-to-peer lending platform built on Bitcoin that enables anyone to quickly extend lines of credit to all of their trusted friends
