@@ -32,6 +32,8 @@ You can also support the list directly:
 
 **Ethereum:** *0x78a2C634b844b23e22795EAb1Bd344629f4983c2*
 
+**Monero:** *4B8cnjTaXnADZMJhNVkZtoHNVqBE1Pjavag6Mp54HPmp1FUUUnFteLRbdAMvKDzCoeBE3vY81BZzVNoGBaaPfRhw6jiS3Z1*
+
 ---
 
 ### Platforms
@@ -39,6 +41,7 @@ You can also support the list directly:
 - [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
 - [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
 - [Ethereum classic](https://ethereumclassic.github.io/) - continuation of the original Ethereum blockchain - the classic version preserving untampered history, hard forked after [DAO hack](http://www.coindesk.com/understanding-dao-hack-journalists/)
+- [Monero](https://getmonero.org) - secure, private, untraceable currency. It is open-source and freely available to all
 - [Azure blockchain](https://azure.microsoft.com/en-us/solutions/blockchain/) - Blockchain as a Service from Microsoft. Not free 🔐
 - [IBM blockchain](http://www.ibm.com/blockchain/) - blockchain network in a cloud environment. Not free 🔐
 - [Waves](https://wavesplatform.com/) - decentralized platform that allows any user to issue, transfer, swap and trade custom tokens directly on the blockchain
