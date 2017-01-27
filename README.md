@@ -238,6 +238,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Tokenly](https://tokenly.com/) - digital representation of your good whether it’s a trading card, song, movie, game, loyalty point, membership, and more
 - [Loyyal](http://loyyal.com/) - universal loyalty and rewards platform, built with blockchain and smart contract technology
 - [Open Bazaar](https://openbazaar.org/) - pear-to-pear marketplace
+- [Rare Pepe Directory](http://rarepepedirectory.com/) - rare pepes tokens on the blockchain 🐸
 
 ---
 
