@@ -105,6 +105,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
 - [Exmo](https://exmo.com/?ref=373944) - supports a few payment systems (mainly available in CIS) 🍭
 - [Cryptonit](https://cryptonit.net/referral/2f63ecb3) - works with PayPal and credit cards 🍭
+- [DIGIX](https://www.dgx.io/) - purchase digital gold assets with Ether or Bitcoin
 
 #### USA
 
@@ -199,7 +200,8 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Ecoin](https://www.e-coin.io/?ref=bb5f6a0f682f485ca396da4a002c6777) - free virtual card in mobile app 🍭
 - [Bitpay](https://bitpay.com/) - accept bitcoin, store and spend bitcoin securely, or turn bitcoin into dollars
 - [Ripple](https://ripple.com/) - instant, certain, low-cost international payments
-- [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on Blockchain
+- [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on blockchain
+- [Tether](https://tether.to/) - fiat currencies on the Bitcoin blockchain
 - [Bitpesa](https://www.bitpesa.co/) - send and collect business payments, between Africa and the rest of the world
 - [Crediblefriends](https://crediblefriends.com/) - peer-to-peer lending platform built on Bitcoin that enables anyone to quickly extend lines of credit to all of their trusted friends
 - [BTC Jam](https://btcjam.com/) - borrow and lend using Bitcoin
