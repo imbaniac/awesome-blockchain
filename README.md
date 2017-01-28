@@ -146,6 +146,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Luno 🇪🇺](https://www.luno.com/)
 - [Spectrocoin 🇪🇺](https://spectrocoin.com/)
 - [Mrcoin 🇪🇺](https://www.mrcoin.eu/en)
+- [Decicoin 🇪🇺](https://decicoin.com/)
 - [Cointed 🇩🇪](https://cointed.com/)
 - [Yabit 🇪🇸](https://yabit.com.ve/)
 - [Bity 🇨🇭 ](https://bity.com/)
