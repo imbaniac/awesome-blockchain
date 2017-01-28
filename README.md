@@ -104,6 +104,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [The Rock Trading](https://www.therocktrading.com) - supports all main cryptocurrencies
 - [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
 - [Exmo](https://exmo.com/?ref=373944) - supports a few payment systems (mainly available in CIS) 🍭
+- [Cryptonit](https://cryptonit.net/referral/2f63ecb3) - works with PayPal and credit cards 🍭
 
 #### USA
 
@@ -239,6 +240,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Loyyal](http://loyyal.com/) - universal loyalty and rewards platform, built with blockchain and smart contract technology
 - [Open Bazaar](https://openbazaar.org/) - pear-to-pear marketplace
 - [Rare Pepe Directory](http://rarepepedirectory.com/) - rare pepes tokens on the blockchain 🐸
+- [Golem](https://golem.network/) - global, open sourced, decentralized supercomputer that anyone can access
 
 ---
 
