@@ -68,7 +68,7 @@ For other cryptocurrencies, it's best to use their own wallet (usually from thei
 
 I found no way to buy bitcoin anonymously, by adequate rate, outside of US and EU, and for USD or Euros. If you know the way, please contact me [here](https://t.me/tmaniac).
 
-[List of all main cryptocurrencies and their market cap](http://coinmarketcap.com/)
+[List of all main cryptocurrencies and their market cap](https://coinmarketcap.com/)
 
 #### Global
 
