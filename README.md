@@ -244,7 +244,12 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Open Bazaar](https://openbazaar.org/) - pear-to-pear marketplace
 - [Rare Pepe Directory](http://rarepepedirectory.com/) - rare pepes tokens on the blockchain 🐸
 - [Golem](https://golem.network/) - global, open sourced, decentralized supercomputer that anyone can access
-
+- [Ascribe](https://www.ascribe.io/) - decentralized content registry for for artists and creators
+- [Blockai](https://blockai.com/) - claim the copyright for your art (mainly photos). Works with instagram
+- [Crypto-copyright](https://crypto-copyright.com/) - proof of ownership for 4mBTC
+- [Stampery](https://stampery.com/) - data certification for enterprises
+- [Everledger](https://www.everledger.io/) - permanent ledger for diamond certification
+- [Follow my vote](https://followmyvote.com/) - blockchain voting platform
 ---
 
 ## Future plans
