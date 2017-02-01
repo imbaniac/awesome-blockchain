@@ -20,6 +20,7 @@
 - [Jobs](#jobs)
 - [Shopping](#shopping)
 - [Projects](#projects)
+- [Games](#games)
 - [Future plans](#future-plans)
 
 ---
@@ -59,6 +60,7 @@ You can also support the list directly:
 - [Swarm](http://swarm-gateways.net/) - serverless hosting incentivised peer-to-peer storage and content distribution. The primary objective is to provide a redundant store of Ethereum's public record, store and distribute DAPP code and data, as well as blockchain data
 - [Chain](https://chain.com/) - enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up
 - [Factom](https://www.factom.com) - provides active solutions for compliance, identity, transparent assets, and securities for Enterprise, Government and Non-Profit systems
+- [Expanse](http://www.expanse.tech/) - fault tolerant cloud computer built on blockchain technology that facilitates censorship resistant applications
 
 ### Exchanges
 
@@ -250,6 +252,15 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Stampery](https://stampery.com/) - data certification for enterprises
 - [Everledger](https://www.everledger.io/) - permanent ledger for diamond certification
 - [Follow my vote](https://followmyvote.com/) - blockchain voting platform
+- [Borderless](http://www.borderless.tech/) - coalition of globally accessible governance services forged out of smart contracts
+- [Otonomos](https://www.otonomos.com/) - setup and govern companies around the world with online control panel
+- [Democracy Earth](http://democracy.earth/) - governance in a post nation-state world
+
+### Games
+
+- [Rollin](https://www.rollin.io/ref/102z) - provably fair dice game 🍭
+- [First blood](https://firstblood.io) - eSports reward platform
+- [Coinpalace](https://coinpalace.io) - classical casino with games on Bitcoin. Not fair chances
 
 ---
 
