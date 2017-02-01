@@ -250,6 +250,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Stampery](https://stampery.com/) - data certification for enterprises
 - [Everledger](https://www.everledger.io/) - permanent ledger for diamond certification
 - [Follow my vote](https://followmyvote.com/) - blockchain voting platform
+
 ---
 
 ## Future plans
