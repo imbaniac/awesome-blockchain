@@ -255,6 +255,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Borderless](http://www.borderless.tech/) - coalition of globally accessible governance services forged out of smart contracts
 - [Otonomos](https://www.otonomos.com/) - setup and govern companies around the world with online control panel
 - [Democracy Earth](http://democracy.earth/) - governance in a post nation-state world
+- [Golos](https://golos.io/) - russian fork of steem.it
 
 ### Games
 
