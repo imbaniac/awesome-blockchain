@@ -256,6 +256,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Otonomos](https://www.otonomos.com/) - setup and govern companies around the world with online control panel
 - [Democracy Earth](http://democracy.earth/) - governance in a post nation-state world
 - [Golos](https://golos.io/) - russian fork of steem.it
+- [Aragon](https://aragon.one/) - disintermediate the creation and maintaince of companies and other organizational structures. Based on Ethereum.
 
 ### Games
 
