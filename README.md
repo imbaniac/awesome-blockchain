@@ -257,6 +257,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Democracy Earth](http://democracy.earth/) - governance in a post nation-state world
 - [Golos](https://golos.io/) - russian fork of steem.it
 - [Aragon](https://aragon.one/) - disintermediate the creation and maintaince of companies and other organizational structures. Based on Ethereum.
+- [StarBase](https://starbase.co/) - token based global crowdfunding and crowdsourcing platform
 
 ### Games
 
