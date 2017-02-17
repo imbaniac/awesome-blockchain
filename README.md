@@ -108,6 +108,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Exmo](https://exmo.com/?ref=373944) - supports a few payment systems (mainly available in CIS) 🍭
 - [Cryptonit](https://cryptonit.net/referral/2f63ecb3) - works with PayPal and credit cards 🍭
 - [DIGIX](https://www.dgx.io/) - purchase digital gold assets with Ether or Bitcoin
+- [My Ether Wallet](https://www.myetherwallet.com) - ether wallet with built-in Ether-BTC exchange
 
 #### USA
 
