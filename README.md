@@ -265,6 +265,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Rollin](https://www.rollin.io/ref/102z) - provably fair dice game 🍭
 - [First blood](https://firstblood.io) - eSports reward platform
 - [Coinpalace](https://coinpalace.io) - classical casino with games on Bitcoin. Not fair chances
+- [Edgeless](https://edgeless.io/) - Ethereum smart contract-based casino with 0% house edge
 
 ---
 
