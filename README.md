@@ -260,13 +260,14 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Golos](https://golos.io/) - russian fork of steem.it
 - [Aragon](https://aragon.one/) - disintermediate the creation and maintaince of companies and other organizational structures. Based on Ethereum.
 - [StarBase](https://starbase.co/) - token based global crowdfunding and crowdsourcing platform
+- [Gnosis](https://gnosis.pm/) - make complex predictions with an easy to use prediction market (Upcoming)
 
 ### Games
 
 - [Rollin](https://www.rollin.io/ref/102z) - provably fair dice game 🍭
 - [First blood](https://firstblood.io) - eSports reward platform
 - [Coinpalace](https://coinpalace.io) - classical casino with games on Bitcoin. Not fair chances
-- [Edgeless](https://edgeless.io/) - Ethereum smart contract-based casino with 0% house edge
+- [Edgeless](https://edgeless.io/) - Ethereum smart contract-based casino with 0% house edge (ICO)
 
 ---
 
