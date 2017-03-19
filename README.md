@@ -224,6 +224,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Bitcoin-vacancy](http://www.bitcoin-vacancy.com/) - do cryptocurrency related jobs and get paid in cryptocurrencies
 - [Angel.co](https://angel.co/bitcoin/jobs) - Bitcoin startup jobs
 - [Rein Project](https://reinproject.org/) - decentralized freelance market on Bitcoin
+- [Ethlance](http://ethlance.com/) - jobs pain in ethereum
 
 ### Services
 
