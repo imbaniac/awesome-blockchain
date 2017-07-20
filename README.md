@@ -106,7 +106,6 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [The Rock Trading](https://www.therocktrading.com) - supports all main cryptocurrencies
 - [Yobit](https://yobit.io/?bonus=Eksfz) - exchange platform, ability to create own cryptocurrencies and games 🍭
 - [Exmo](https://exmo.com/?ref=373944) - supports a few payment systems (mainly available in CIS) 🍭
-- [Cryptonit](https://cryptonit.net/referral/2f63ecb3) - works with PayPal and credit cards 🍭
 - [DIGIX](https://www.dgx.io/) - purchase digital gold assets with Ether or Bitcoin
 - [My Ether Wallet](https://www.myetherwallet.com) - ether wallet with built-in Ether-BTC exchange
 - [Wall of Coins](https://wallofcoins.com) - buy and sell btc directly. Works in many countries
