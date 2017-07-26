@@ -110,6 +110,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [My Ether Wallet](https://www.myetherwallet.com) - ether wallet with built-in Ether-BTC exchange
 - [Wall of Coins](https://wallofcoins.com) - buy and sell btc directly. Works in many countries
 - [eToro](http://etoro.tw/2urV4vD) - not only cryptocurrencies, very good UI, CFD (Contracts For Difference). Not available for USA citizens. 🍭
+- [Luno](https://www.luno.com/) - works in Europe, Africa and Asia
 
 #### USA
 
@@ -148,7 +149,6 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Paymium 🇪🇺](https://paymium.com)
 - [Coinmotion 🇪🇺](https://coinmotion.com/)
 - [Cryptopay 🇪🇺](https://cryptopay.me/)
-- [Luno 🇪🇺](https://www.luno.com/)
 - [Spectrocoin 🇪🇺](https://spectrocoin.com/)
 - [Mrcoin 🇪🇺](https://www.mrcoin.eu/en)
 - [Decicoin 🇪🇺](https://decicoin.com/)
