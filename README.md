@@ -163,6 +163,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BtcxIndia 🇮🇳](https://btcxindia.com/)
 - [Zebpay 🇮🇳](https://www.zebpay.com/)
 - [Unocoin 🇮🇳](https://www.unocoin.com/)
+- [PocketBits 🇮🇳](https://www.pocketbits.in)
 
 #### China
 
