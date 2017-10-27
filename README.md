@@ -164,6 +164,8 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Coinsecure 🇮🇳](https://coinsecure.in/)
 - [Buyucoin 🇮🇳](http://www.buyucoin.com/) - Buy with cards in India
 - [BtcxIndia 🇮🇳](https://btcxindia.com/)
+- [ethexIndia 🇮🇳](https://ethexindia.com/)
+- [ThroughBit 🇮🇳](https://www.throughbit.com/)
 - [PocketBits 🇮🇳](https://www.pocketbits.in)
 
 #### China
