@@ -154,7 +154,6 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Mrcoin 🇪🇺](https://www.mrcoin.eu/en)
 - [Decicoin 🇪🇺](https://decicoin.com/)
 - [Cointed 🇩🇪](https://cointed.com/)
-- [Yabit 🇪🇸](https://yabit.com.ve/)
 - [Bity 🇨🇭 ](https://bity.com/)
 - [Bittiraha 🇫🇮](https://bittiraha.fi/)
 
