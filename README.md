@@ -273,6 +273,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [StarBase](https://starbase.co/) - token based global crowdfunding and crowdsourcing platform
 - [Gnosis](https://gnosis.pm/) - make complex predictions with an easy to use prediction market (Upcoming)
 - [Melon](https://melonport.com/) - Blockchain Software for Asset Management
+- [BlockVotes](https://github.com/yfgeek/BlockVotes) - E-voting system based on ring signatures
 
 ### Games
 
@@ -282,9 +283,6 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Edgeless](https://edgeless.io/) - Ethereum smart contract-based casino with 0% house edge (ICO)
 
 ---
-
-## Future plans
-- Interative map with exchanges and filter by countries
 
 
 
