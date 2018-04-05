@@ -61,6 +61,7 @@ You can also support the list directly:
 - [Chain](https://chain.com/) - enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up
 - [Factom](https://www.factom.com) - provides active solutions for compliance, identity, transparent assets, and securities for Enterprise, Government and Non-Profit systems
 - [Expanse](http://www.expanse.tech/) - fault tolerant cloud computer built on blockchain technology that facilitates censorship resistant applications
+- [Corda](https://www.corda.net/) - open-source blockchain project, designed for business, that allows you to build interoperable blockchain networks that transact in strict privacy
 
 ### Exchanges
 
