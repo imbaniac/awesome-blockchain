@@ -55,7 +55,6 @@ You can also support the list directly:
 - [Hyperledger](https://www.hyperledger.org/) - open source collaborative effort created to advance cross-industry blockchain technologies
 - [Multichain](http://www.multichain.com/) - open platform for blockchain applications
 - [Stratis](https://stratisplatform.com/) - end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework. Claims to be enterprise ready.
-- [Credits](http://credits.vision/) - blockchain infrastructure provider for building secure and scalable blockchains
 - [Counterparty](http://counterparty.io/) - create and trade any kind of digital token and run smart contracts on blockchain
 - [Swarm](http://swarm-gateways.net/) - serverless hosting incentivised peer-to-peer storage and content distribution. The primary objective is to provide a redundant store of Ethereum's public record, store and distribute DAPP code and data, as well as blockchain data
 - [Chain](https://chain.com/) - enterprise-grade blockchain infrastructure that enables organizations to build financial services from the ground up
