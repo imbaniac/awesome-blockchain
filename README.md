@@ -61,6 +61,9 @@ You can also support the list directly:
 - [Factom](https://www.factom.com) - provides active solutions for compliance, identity, transparent assets, and securities for Enterprise, Government and Non-Profit systems
 - [Expanse](http://www.expanse.tech/) - fault tolerant cloud computer built on blockchain technology that facilitates censorship resistant applications
 - [Corda](https://www.corda.net/) - open-source blockchain project, designed for business, that allows you to build interoperable blockchain networks that transact in strict privacy
+- [Veres One](https://veres.one/) - identity management on blockchain
+- [Vechain](https://www.vechain.com/) - blockchain-as-a-service
+
 
 ### Exchanges
 
@@ -203,6 +206,14 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 - [Bit2c 🇮🇱](https://www.bit2c.co.il/)
 - [Nairaex](https://www.nairaex.com/) - Nigerian exchange
+
+#### DEX (Decentralized Exchanges)
+
+- [ForkDelta](https://forkdelta.github.io)
+- [IDEX](https://idex.market/)
+- [Radar Relay](https://app.radarrelay.com/) - 0x relayer
+- [Paradex](https://paradex.io/) - 0x relayer
+- [DDEX](https://ddex.io/trade) - 0x relayer
 
 
 ### Payments / Lending
