@@ -18,6 +18,7 @@
   * [Middle East / Africa](#middle-east--africa)
 - [Payments / Lending](#payments--lending)
 - [Jobs](#jobs)
+- [Courses & Tutorials](#courses-&-tutorials)
 - [Shopping](#shopping)
 - [Projects](#projects)
 - [Games](#games)
@@ -245,6 +246,14 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BlockchainJob.co](https://blockchainjob.co/) - Find your perfect non-technical role in the Crypto space. Operations, Marketing, UX/UI Design and more.
 - [Crypto Jobs List](https://cryptojobslist.com/) - Curated jobs from top verified blockchain companies.
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - Find great jobs at startups that use blockchain technology.
+
+### Courses & Tutorials
+
+- [EatTheBlocks Pro](https://pro.eattheblocks.com)
+- [EatTheBlocks Youtube](https://www.youtube.com/c/eattheblocks)
+- [EatTheBlocks Blog](https://eattheblocks.com)
+- [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](http://www.manning.com/?a_aid=eattheblocks)
+- [Learn Ethereum Dapps: Build a ToDo List with a Solidity smart contract](https://eattheblocks.com/learn-to-build-an-ethereum-dapp-step-by-step-ebook-tutorial-for-beginners/)
 
 ### Services
 
