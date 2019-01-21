@@ -249,7 +249,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 ### Courses & Tutorials
 
-- [EatTheBlocks Pro](https://pro.eattheblocks.com)
+- [EatTheBlocks Pro](http://pro.eattheblocks.com)
 - [EatTheBlocks Youtube](https://www.youtube.com/c/eattheblocks)
 - [EatTheBlocks Blog](https://eattheblocks.com)
 - [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](http://www.manning.com/?a_aid=eattheblocks)
