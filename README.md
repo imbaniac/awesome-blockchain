@@ -18,7 +18,7 @@
   * [Middle East / Africa](#middle-east--africa)
 - [Payments / Lending](#payments--lending)
 - [Jobs](#jobs)
-- [Courses & Tutorials](#courses-tutorials)
+- [Courses & Tutorials](#courses--tutorials)
 - [Shopping](#shopping)
 - [Projects](#projects)
 - [Games](#games)
