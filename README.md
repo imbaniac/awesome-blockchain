@@ -227,6 +227,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Crediblefriends](https://crediblefriends.com/) - peer-to-peer lending platform built on Bitcoin that enables anyone to quickly extend lines of credit to all of their trusted friends
 - [BTC Jam](https://btcjam.com/) - borrow and lend using Bitcoin
 - [Bitbond](https://www.bitbond.com/?a=3T8K669VWY) - invest and borrow (mainly for small business) 🍭
+- [Payscrypt](https://payscrypt.com/) - accept btc/usdt/eth/erc20 payments
 
 ### Jobs
 
