@@ -90,6 +90,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BTC-e](https://btc-e.com) - clear and solid exchange, no documents required
 - [Paxful](https://paxful.com) - P2P exchange with variety of payment options, including credit/debit/gift cards
 - [Nonstopcoin](http://nonstopcoin.com/) - buy Bitcoins with Perfect Money, OKPAY, Payeer, AdvCash, BTC-e USD
+- [BaseFEX](https://www.basefex.com) - trade cryptocurrency futures with 1 ~ 100x leverage
 - [Blockchain.info](https://blockchain.info/) - popular cloud wallet with ability to purchase Bitcoins
 - [Bitfinex](https://www.bitfinex.com) - elegant web trading platform from a few cryptocurrencies 
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
