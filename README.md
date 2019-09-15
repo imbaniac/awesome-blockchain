@@ -114,7 +114,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Wall of Coins](https://wallofcoins.com) - buy and sell btc directly. Works in many countries
 - [eToro](http://etoro.tw/2urV4vD) - not only cryptocurrencies, very good UI, CFD (Contracts For Difference). Not available for USA citizens. 🍭
 - [Luno](https://www.luno.com/) - works in Europe, Africa and Asia
-- [Coinwale](https://coinwale.com/) - anonymous cryptocurrency exchange, supports BTC, BCH, ETH, LTC, XVG & DOGE
+- [InstaEx](https://instaex.io/) - Instant Cryptocurrency Exchange, supports 150+ coins.
 - [Crypto Facilities](https://www.cryptofacilities.com/) - FCA regulated Crypto Futures Exchange supporting BTC & XRP
 
 #### USA
