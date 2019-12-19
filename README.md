@@ -91,7 +91,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Paxful](https://paxful.com) - P2P exchange with variety of payment options, including credit/debit/gift cards
 - [Nonstopcoin](http://nonstopcoin.com/) - buy Bitcoins with Perfect Money, OKPAY, Payeer, AdvCash, BTC-e USD
 - [Blockchain.info](https://blockchain.info/) - popular cloud wallet with ability to purchase Bitcoins
-- [Bitfinex](https://www.bitfinex.com) - elegant web trading platform from a few cryptocurrencies 
+- [Bitfinex](https://www.bitfinex.com) - elegant web trading platform from a few cryptocurrencies
 - [Bitcoin.de](https://www.bitcoin.de) - P2P exchange
 - [Bitit.gift](http://bitit.gift/?referral=WHIKUUSA) - instant buy with cards and vouchers 🍭
 - [Alfacashier](https://www.alfacashier.com/r/2f790f4c) - supports many cryptocurrencies 🍭
@@ -212,6 +212,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 - [ForkDelta](https://forkdelta.github.io)
 - [IDEX](https://idex.market/)
+- [Ordermatch](https://ordermatch.io/) - 0x relayer
 - [Radar Relay](https://app.radarrelay.com/) - 0x relayer
 - [Paradex](https://paradex.io/) - 0x relayer
 - [DDEX](https://ddex.io/trade) - 0x relayer
@@ -232,7 +233,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 ### Jobs
 
 - [reddit.com/r/Jobs4Bitcoins](https://www.reddit.com/r/Jobs4Bitcoins/) - bitcoin jobs board
-- [Xbtfreelancer](http://www.xbtfreelancer.com/?ref=31381) - full-featured freelance platform 🍭 
+- [Xbtfreelancer](http://www.xbtfreelancer.com/?ref=31381) - full-featured freelance platform 🍭
 - [Bitwage](https://www.bitwage.me/prelaunch?referral=Sy4H3kEwg&refSource=copy) - remote job placement and wage management solutions 🍭
 - [Freelancer.com](https://www.freelancer.com/jobs/bitcoin/) - bitcoin jobs on Freelancer
 - [Indeed.com](https://www.indeed.com/q-Bitcoin-jobs.html) - bitcoin jobs on Indeed
@@ -249,7 +250,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 ### Services
 
-- [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭 
+- [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭
 - [Nord VPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3243) - secure and fast VPN with good price 🍭
 - [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works fast and smoothly
 
