@@ -116,6 +116,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Luno](https://www.luno.com/) - works in Europe, Africa and Asia
 - [InstaEx](https://instaex.io/) - Instant Cryptocurrency Exchange, supports 150+ coins.
 - [Crypto Facilities](https://www.cryptofacilities.com/) - FCA regulated Crypto Futures Exchange supporting BTC & XRP
+- [ExchangeRates.Pro](https://exchangerates.pro/) - Bitcoin & 33 cryptocurrencies price comparison in 255 countries: Exchanges, Brokers, P2P Marketplaces
 
 #### USA
 
