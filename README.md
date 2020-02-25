@@ -289,6 +289,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Gnosis](https://gnosis.pm/) - make complex predictions with an easy to use prediction market (Upcoming)
 - [Melon](https://melonport.com/) - Blockchain Software for Asset Management
 - [BlockVotes](https://github.com/yfgeek/BlockVotes) - E-voting system based on ring signatures
+- [RIF OS](https://www.rifos.org/) - Decentralized infrastructure services such as Directory, Payments, Storage, Communications, and Data Gateways.
 
 ### Games
 
