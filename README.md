@@ -63,7 +63,7 @@ You can also support the list directly:
 - [Corda](https://www.corda.net/) - open-source blockchain project, designed for business, that allows you to build interoperable blockchain networks that transact in strict privacy
 - [Veres One](https://veres.one/) - identity management on blockchain
 - [Vechain](https://www.vechain.com/) - blockchain-as-a-service
-
+- [RSK](https://www.rsk.com/) - Smart contracts for Bitcoin
 
 ### Exchanges
 
