@@ -63,7 +63,7 @@ You can also support the list directly:
 - [Corda](https://www.corda.net/) - open-source blockchain project, designed for business, that allows you to build interoperable blockchain networks that transact in strict privacy
 - [Veres One](https://veres.one/) - identity management on blockchain
 - [Vechain](https://www.vechain.com/) - blockchain-as-a-service
-
+- [RSK](https://www.rsk.com/) - Smart contracts for Bitcoin
 
 ### Exchanges
 
@@ -289,6 +289,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Gnosis](https://gnosis.pm/) - make complex predictions with an easy to use prediction market (Upcoming)
 - [Melon](https://melonport.com/) - Blockchain Software for Asset Management
 - [BlockVotes](https://github.com/yfgeek/BlockVotes) - E-voting system based on ring signatures
+- [RIF OS](https://www.rifos.org/) - Decentralized infrastructure services such as Directory, Payments, Storage, Communications, and Data Gateways.
 
 ### Games
 
