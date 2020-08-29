@@ -64,6 +64,7 @@ You can also support the list directly:
 - [Veres One](https://veres.one/) - identity management on blockchain
 - [Vechain](https://www.vechain.com/) - blockchain-as-a-service
 - [RSK](https://www.rsk.com/) - Smart contracts for Bitcoin
+- [ArcBlock](https://www.arcblock.io/) - a platform that gives developers everything they need to create, deploy and manage apps, blockchains and decentralized identity for the decentralized web
 
 ### Exchanges
 
