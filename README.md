@@ -291,6 +291,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Melon](https://melonport.com/) - Blockchain Software for Asset Management
 - [BlockVotes](https://github.com/yfgeek/BlockVotes) - E-voting system based on ring signatures
 - [RIF OS](https://www.rifos.org/) - Decentralized infrastructure services such as Directory, Payments, Storage, Communications, and Data Gateways.
+- [LibreSelery](https://github.com/protontypes/libreselery) - Continuous funding distribution to your project contributors and dependencies. Integrated into Github Actions and Coinbase
 
 ### Games
 
