@@ -292,6 +292,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BlockVotes](https://github.com/yfgeek/BlockVotes) - E-voting system based on ring signatures
 - [RIF OS](https://www.rifos.org/) - Decentralized infrastructure services such as Directory, Payments, Storage, Communications, and Data Gateways.
 - [LibreSelery](https://github.com/protontypes/libreselery) - Continuous funding distribution to your project contributors and dependencies. Integrated into Github Actions and Coinbase
+- [Joys Digital](https://joys.digital/) - is a payment service built on the blockchain technology for making payments with digital financial assets (cryptocurrencies, tokens) when paying for goods and services online and in retail within the legal framework of countries where such settlements are made.
 
 ### Games
 
