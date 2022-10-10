@@ -65,6 +65,7 @@ You can also support the list directly:
 - [RSK](https://www.rsk.com/) - Smart contracts for Bitcoin
 - [ArcBlock](https://www.arcblock.io/) - a platform that gives developers everything they need to create, deploy and manage apps, blockchains and decentralized identity for the decentralized web
 - [Covalent](https://www.covalenthq.com/) - a unified API bringing visibility to billions of blockchain data points
+- [Explore Blockchain Libraries & Projects](https://kandi.openweaver.com/explore/blockchain) - Explore a curated list of AI popular & new Blockchain libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ### Exchanges
 
