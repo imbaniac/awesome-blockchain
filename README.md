@@ -250,6 +250,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BlockchainJob.co](https://blockchainjob.co/) - Find your perfect non-technical role in the Crypto space. Operations, Marketing, UX/UI Design and more.
 - [Crypto Jobs List](https://cryptojobslist.com/) - Curated jobs from top verified blockchain companies.
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - Find great jobs at startups that use blockchain technology.
+- [Woody3](https://woody3.xyz/) - Find your dream non-tech job in Web3.
 
 ### Services
 
