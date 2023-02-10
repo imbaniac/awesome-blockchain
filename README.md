@@ -306,7 +306,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 ### Developer Roadmaps
 
-- [Blockchain Roadmap](https://roadmap.sh/blockchain) - Roadmap to become a Blockchain Developer 🍭
+- [Blockchain Roadmap](https://roadmap.sh/blockchain) - Roadmap to become a Blockchain Developer.
 
 
 
