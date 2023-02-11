@@ -22,6 +22,7 @@
 - [Projects](#projects)
 - [Games](#games)
 - [Future plans](#future-plans)
+- [Developer Roadmaps](#developer-roadmaps)
 
 ---
 To propose a project - open issue/PR or contact me via [Telegram](https://t.me/tmaniac)
@@ -303,6 +304,9 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 ---
 
+### Developer Roadmaps
+
+- [Blockchain Roadmap](https://roadmap.sh/blockchain) - Roadmap to become a Blockchain Developer.
 
 
 
