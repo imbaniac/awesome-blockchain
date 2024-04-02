@@ -41,6 +41,7 @@ You can also support the list directly:
 ### Platforms
 
 - [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
+- [Bitquery](https://bitquery.io/) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool
 - [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
 - [Ethereum classic](https://ethereumclassic.github.io/) - continuation of the original Ethereum blockchain - the classic version preserving untampered history, hard forked after [DAO hack](http://www.coindesk.com/understanding-dao-hack-journalists/)
 - [Monero](https://getmonero.org) - secure, private, untraceable currency. It is open-source and freely available to all
