@@ -257,6 +257,8 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 ### Services
 
+- [HTTPay](https://httpay.xyz) - pay-per-call crypto API marketplace on Base with fun endpoints (fortunes, roasts, memecoin generators)
+
 - [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭
 - [Nord VPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3243) - secure and fast VPN with good price 🍭
 - [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works fast and smoothly
