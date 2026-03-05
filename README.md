@@ -260,6 +260,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭
 - [Nord VPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3243) - secure and fast VPN with good price 🍭
 - [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works fast and smoothly
+- [Frostbyte](https://frostbyte-landing.vercel.app) - developer API gateway with crypto price feeds, multi-chain wallet operations, DeFi trading data, and 40+ endpoints behind one API key. Supports USDC payments on Base
 
 ### Projects
 
