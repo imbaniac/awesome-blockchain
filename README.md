@@ -214,6 +214,8 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 #### DEX (Decentralized Exchanges)
 
+- [Haveno DEX](https://haveno.exchange) - Fully decentralized P2P exchange for Monero (XMR). Non-custodial, 2-of-3 multisig escrow, NO KYC. Uses Tor. Active networks: [RetosSwap](https://retoswap.com) ($2M+/month volume), [DawnSwap](https://dawnswap.com) (5% deposits, 24/7 arbitration). Supports Cash by Mail, Face-to-Face, bank transfer.
+
 - [ForkDelta](https://forkdelta.github.io)
 - [IDEX](https://idex.market/)
 - [Ordermatch](https://ordermatch.io/) - 0x relayer
