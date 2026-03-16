@@ -65,7 +65,7 @@ You can also support the list directly:
 - [Vechain](https://www.vechain.com/) - blockchain-as-a-service
 - [RSK](https://www.rsk.com/) - Smart contracts for Bitcoin
 - [ArcBlock](https://www.arcblock.io/) - a platform that gives developers everything they need to create, deploy and manage apps, blockchains and decentralized identity for the decentralized web
-- [Covalent](https://www.covalenthq.com/) - a unified API bringing visibility to billions of blockchain data points
+- [GoldRush](https://goldrush.dev) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
 
 ### Exchanges
