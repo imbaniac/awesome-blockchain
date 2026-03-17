@@ -234,6 +234,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BTC Jam](https://btcjam.com/) - borrow and lend using Bitcoin
 - [Bitbond](https://www.bitbond.com/?a=3T8K669VWY) - invest and borrow (mainly for small business) 🍭
 - [Payscrypt](https://payscrypt.com/) - accept btc/usdt/eth/erc20 payments
+- [Arch Tools](https://archtools.dev/) - 61 AI tools via REST API and MCP protocol with native x402 USDC micropayments on Base, Polygon, Avalanche, and Solana
 
 ### Jobs
 
