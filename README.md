@@ -234,6 +234,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BTC Jam](https://btcjam.com/) - borrow and lend using Bitcoin
 - [Bitbond](https://www.bitbond.com/?a=3T8K669VWY) - invest and borrow (mainly for small business) 🍭
 - [Payscrypt](https://payscrypt.com/) - accept btc/usdt/eth/erc20 payments
+- [Arch Tools](https://archtools.dev/) - 61 AI tools via REST API and MCP protocol with native x402 USDC micropayments on Base, Polygon, Avalanche, and Solana
 
 ### Jobs
 
@@ -260,6 +261,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Purse](https://purse.io/?_r=WIsYgT) - buy orders on Amazon in exchange for Bitcoin 🍭
 - [Nord VPN](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3243) - secure and fast VPN with good price 🍭
 - [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works fast and smoothly
+- [Arch Tools](https://archtools.dev) - 61 AI tools API with x402 USDC micropayments on Base, Polygon, Avalanche, and Solana. REST + MCP protocol.
 
 ### Projects
 
