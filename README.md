@@ -202,6 +202,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Korbit 🇰🇷](https://www.korbit.co.kr/)
 - [BX Thailand 🇹🇭](https://bx.in.th/)
 - [Bitcoin.co.id 🇮🇩](https://vip.bitcoin.co.id/ref/imbaniac) 🍭
+- [BitcoinVN 🇻🇳](https://bitcoinvn.io) - Vietnam's longest-running cryptocurrency exchange (since 2014), offering non-custodial instant exchange with Lightning Network support and VND fiat on/off ramps
 
 #### CIS
 
