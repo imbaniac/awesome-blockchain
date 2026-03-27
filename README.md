@@ -254,6 +254,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - Find great jobs at startups that use blockchain technology.
 - [Woody3](https://woody3.xyz/) - Find your dream non-tech job in Web3.
 - [Web3 Jobs](https://web3.career) - Browse 31,191 web3 jobs in at 5,226 projects. Filter the best remote crypto jobs by salary, location, and skills.
+- [Web3 Data Jobs](https://unchaindata.xyz/jobs) - 1st Web3 data job board focused on data analyst, data engineer, crypto compliance analytics and data scientist roles at crypto companies. 275+ curated positions.
 
 ### Services
 
