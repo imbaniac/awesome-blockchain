@@ -230,6 +230,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on blockchain
 - [Tether](https://tether.to/) - fiat currencies on the Bitcoin blockchain
 - [Bitpesa](https://www.bitpesa.co/) - send and collect business payments, between Africa and the rest of the world
+- [Coinnect](https://coinnect.bot/) - open money transfer routing across fiat, crypto, and P2P networks, finds the cheapest path using graph algorithms
 - [Crediblefriends](https://crediblefriends.com/) - peer-to-peer lending platform built on Bitcoin that enables anyone to quickly extend lines of credit to all of their trusted friends
 - [BTC Jam](https://btcjam.com/) - borrow and lend using Bitcoin
 - [Bitbond](https://www.bitbond.com/?a=3T8K669VWY) - invest and borrow (mainly for small business) 🍭
