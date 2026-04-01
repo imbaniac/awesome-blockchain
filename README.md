@@ -312,3 +312,5 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 ### Developer Roadmaps
 
 - [Blockchain Roadmap](https://roadmap.sh/blockchain) - Roadmap to become a Blockchain Developer.
+- [ChainNewsClub (链新社)](https://www.lianxinshe666.com) - Chinese-language blockchain education platform with structured learning paths for beginners and enthusiasts.
+- [ChainNewsClub (链新社)](https://www.lianxinshe666.com) - Chinese-language blockchain education platform with structured learning paths for beginners and enthusiasts.
