@@ -312,3 +312,4 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 ### Developer Roadmaps
 
 - [Blockchain Roadmap](https://roadmap.sh/blockchain) - Roadmap to become a Blockchain Developer.
+\n\n- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Rewards vintage hardware.
