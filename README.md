@@ -39,6 +39,7 @@ You can also support the list directly:
 ---
 
 ### Platforms
+- [RustChain](https://github.com/Scottcjn/Rustchain) - AI Agent DeFi blockchain with Proof of Antiquity consensus (DePIN, vintage hardware mining)
 
 - [Bitcoin](https://bitcoin.org) - the most popular cryptocurrency on Blockchain
 - [Ethereum](https://www.ethereum.org/) - decentralized platform that runs smart contracts with its own cryptocurrency - Ether
