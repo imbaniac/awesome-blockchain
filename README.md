@@ -263,6 +263,8 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 ### Projects
 
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
+
 - [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
 - [Bitnation](https://bitnation.co/) - become a world citizen
 - [Steem](https://steem.io/) - blockchain-based social media platform with reward system
