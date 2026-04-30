@@ -262,6 +262,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Mullvad VPN](https://www.mullvad.net/) - 5$/month, accepts bitcoin, works fast and smoothly
 
 ### Projects
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI-powered crypto trading bot with ML ensemble (XGBoost, LightGBM, CatBoost). 3 bot types (AI, Grid, DCA), 12 exchanges via CCXT, Telegram bot control. Open source, available on PyPI
 
 - [Chronobank](https://chronobank.io) - wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries in Uber-like way
 - [Bitnation](https://bitnation.co/) - become a world citizen
