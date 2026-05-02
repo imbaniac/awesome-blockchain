@@ -68,6 +68,7 @@ You can also support the list directly:
 - [Covalent](https://www.covalenthq.com/) - a unified API bringing visibility to billions of blockchain data points
 - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
 
+- [RustChain](https://rustchain.org) — Lightweight blockchain with Proof-of-Antiquity consensus, supporting 15+ CPU architectures. Mine RTC tokens with any CPU.
 ### Exchanges
 
 [Where to store bitcoins](https://bitcoin.org/en/choose-your-wallet)
