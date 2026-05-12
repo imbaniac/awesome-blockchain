@@ -226,6 +226,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 
 - [Ecoin](https://www.e-coin.io/?ref=bb5f6a0f682f485ca396da4a002c6777) - free virtual card in mobile app 🍭
 - [Bitpay](https://bitpay.com/) - accept bitcoin, store and spend bitcoin securely, or turn bitcoin into dollars
+- [Base Pay Desk](https://oskarasi.github.io/base-pay-desk-site/) - non-custodial Base ETH checkout-link builder for creators, agencies, and service sellers, with visible platform-fee math
 - [Ripple](https://ripple.com/) - instant, certain, low-cost international payments
 - [Circle](https://www.circle.com) - peer-to-peer payments with traditional fiat currencies on blockchain
 - [Tether](https://tether.to/) - fiat currencies on the Bitcoin blockchain
