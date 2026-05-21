@@ -67,6 +67,7 @@ You can also support the list directly:
 - [ArcBlock](https://www.arcblock.io/) - a platform that gives developers everything they need to create, deploy and manage apps, blockchains and decentralized identity for the decentralized web
 - [Covalent](https://www.covalenthq.com/) - a unified API bringing visibility to billions of blockchain data points
 - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
+- [ZGC](https://github.com/0riginal-claw/zgc) - lightweight proof-of-stake chain for anchoring AI agent state. Single-file Python implementation (stdlib only), validator-runnable on consumer hardware. MIT licensed.
 
 ### Exchanges
 
