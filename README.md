@@ -299,6 +299,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Joys Digital](https://joys.digital/) - is a payment service built on the blockchain technology for making payments with digital financial assets (cryptocurrencies, tokens) when paying for goods and services online and in retail within the legal framework of countries where such settlements are made.
 - [Polybase](https://polybase.xyz) - Polybase is an open-source decentralized alternative to Firebase, Firestore, etc with web3 native features such as censorship resistance, self-sovereign data, & end-to-end encryption.  
 - [Kryptokrona](https://kryptokrona.org) - Private, fast and secure cryptocurrency from the nordic region.
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain where vintage hardware earns higher mining rewards.
 
 ### Games
 
