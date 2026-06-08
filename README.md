@@ -234,6 +234,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [BTC Jam](https://btcjam.com/) - borrow and lend using Bitcoin
 - [Bitbond](https://www.bitbond.com/?a=3T8K669VWY) - invest and borrow (mainly for small business) 🍭
 - [Payscrypt](https://payscrypt.com/) - accept btc/usdt/eth/erc20 payments
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents making x402 micropayments on Solana. Verify agent wallet identity before automated payments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Jobs
 
