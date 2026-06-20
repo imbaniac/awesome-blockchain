@@ -306,6 +306,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [First blood](https://firstblood.io) - eSports reward platform
 - [Coinpalace](https://coinpalace.io) - classical casino with games on Bitcoin. Not fair chances
 - [Edgeless](https://edgeless.io/) - Ethereum smart contract-based casino with 0% house edge (ICO)
+- [Block Lottos](https://blocklottos.com/games) - Base onchain lottery with USDC tickets, verifiable draws, ad placements, and OpenAPI/agent routes for bots.
 
 ---
 
