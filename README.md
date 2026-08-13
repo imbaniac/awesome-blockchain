@@ -312,3 +312,4 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 ### Developer Roadmaps
 
 - [Blockchain Roadmap](https://roadmap.sh/blockchain) - Roadmap to become a Blockchain Developer.
+- [n8n Solana Mint Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches Solana wallets for new token mints and alerts in real time.
