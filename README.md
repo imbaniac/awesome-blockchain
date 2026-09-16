@@ -220,6 +220,7 @@ I found no way to buy bitcoin anonymously, by adequate rate, outside of US and E
 - [Radar Relay](https://app.radarrelay.com/) - 0x relayer
 - [Paradex](https://paradex.io/) - 0x relayer
 - [DDEX](https://ddex.io/trade) - 0x relayer
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 
 ### Payments / Lending
